@@ -1,0 +1,1001 @@
+Visitor ID,Date of Visit,Country/State of Origin,Destination,Season,Age Group,Gender,Visitor Type,Number of Visitors,Length of Stay (days),Travel Purpose,Average Daily Spend (USD),Total Spend (USD),Accommodation Type
+TVA-00001,2024-02-01,China,"Barcelona, Spain",Winter,25–34,Male,International,2,13,Adventure,334,7381,Hotel (5-star)
+TVA-00002,2022-09-19,Italy,"Rome, Italy",Autumn,25–34,Female,Domestic,2,16,Adventure,238,6474,Resort
+TVA-00003,2024-02-08,Germany,"London, UK",Winter,35–44,Male,International,3,6,Leisure / Holiday,472,6797,Resort
+TVA-00004,2024-11-15,Netherlands,"Amsterdam, Netherlands",Autumn,25–34,Female,Domestic,2,7,Leisure / Holiday,296,3522,Hotel (4-star)
+TVA-00005,2024-08-24,"Catalonia, Spain","Barcelona, Spain",Summer,45–54,Female,Domestic,3,3,Business / MICE,183,1318,Hotel (3-star)
+TVA-00006,2024-09-01,Japan,"Tokyo, Japan",Autumn,45–54,Female,Domestic,2,13,Adventure,128,2829,Camping / Glamping
+TVA-00007,2022-09-26,"Central Region, SG","Cape Town, South Africa",Autumn,55–64,Male,Domestic,5,6,Leisure / Holiday,69,1573,Hostel
+TVA-00008,2024-09-23,Sweden,"Tokyo, Japan",Autumn,25–34,Male,International,1,4,Leisure / Holiday,274,1096,Hotel (3-star)
+TVA-00009,2024-03-01,Mexico,"Cancún, Mexico",Spring,45–54,Male,Domestic,1,15,Adventure,202,3030,Resort
+TVA-00010,2022-07-11,"Île-de-France, France","Paris, France",Summer,35–44,Female,Domestic,4,19,Adventure,206,12133,Hotel (4-star)
+TVA-00011,2022-07-16,Argentina,"Dubai, UAE",Summer,18–24,Male,International,6,14,Leisure / Holiday,342,21546,Hotel (3-star)
+TVA-00012,2023-01-12,United States,"Sydney, Australia",Winter,18–24,Female,International,5,1,Transit,367,1395,Hotel (5-star)
+TVA-00013,2024-08-19,India,"New York, USA",Summer,65+,Female,International,2,14,Leisure / Holiday,249,5926,Airbnb / Vacation Rental
+TVA-00014,2024-05-19,"Île-de-France, France","Prague, Czechia",Spring,25–34,Female,Domestic,2,11,Visiting Friends & Family,121,2263,Hotel (3-star)
+TVA-00015,2024-01-11,France,"Marrakech, Morocco",Winter,18–24,Female,International,4,12,Leisure / Holiday,86,3199,Hotel (3-star)
+TVA-00016,2024-03-27,"Istanbul Province, Turkey","Bali, Indonesia",Spring,25–34,Female,Domestic,3,131,Education,109,34270,Hotel (3-star)
+TVA-00017,2023-01-28,Saudi Arabia,"Paris, France",Winter,45–54,Female,International,2,9,Adventure,84,1285,Camping / Glamping
+TVA-00018,2024-03-27,"Île-de-France, France","Cape Town, South Africa",Spring,55–64,Male,Domestic,4,9,Leisure / Holiday,113,3153,Hotel (3-star)
+TVA-00019,2024-12-26,Australia,"Sydney, Australia",Winter,25–34,Female,Domestic,1,11,Leisure / Holiday,231,2541,Hotel (3-star)
+TVA-00020,2023-07-26,Japan,"Bangkok, Thailand",Summer,65+,Female,International,1,7,Leisure / Holiday,81,567,Airbnb / Vacation Rental
+TVA-00021,2023-12-09,Australia,"Sydney, Australia",Winter,25–34,Female,Domestic,4,3,Leisure / Holiday,357,3320,Hotel (5-star)
+TVA-00022,2024-03-25,Netherlands,"Amsterdam, Netherlands",Spring,25–34,Male,Domestic,3,9,Health & Wellness,296,6394,Hotel (4-star)
+TVA-00023,2022-09-22,"Noord-Holland, NL","Vienna, Austria",Autumn,35–44,Male,Domestic,3,10,Health & Wellness,228,5472,Hotel (4-star)
+TVA-00024,2024-05-18,China,"Tokyo, Japan",Spring,25–34,Male,International,2,2,Business / MICE,429,1459,Resort
+TVA-00025,2024-07-19,"Tuscany, Italy","Rome, Italy",Summer,55–64,Non-binary,Domestic,1,177,Education,245,43365,Hotel (5-star)
+TVA-00026,2022-09-10,Germany,"Tokyo, Japan",Autumn,35–44,Male,International,3,3,Business / MICE,322,2318,Hotel (4-star)
+TVA-00027,2023-06-24,"Île-de-France, France","Bali, Indonesia",Summer,65+,Male,Domestic,1,15,Visiting Friends & Family,56,840,Hostel
+TVA-00028,2024-08-21,"New York State, USA","New York, USA",Summer,65+,Male,Domestic,2,12,Health & Wellness,226,4610,Airbnb / Vacation Rental
+TVA-00029,2024-05-23,Italy,"Prague, Czechia",Spring,45–54,Male,International,4,6,Business / MICE,123,2288,Hotel (3-star)
+TVA-00030,2023-02-03,Russia,"Vienna, Austria",Winter,45–54,Male,International,1,3,Business / MICE,267,801,Resort
+TVA-00031,2024-07-08,"Central Region, SG","Cape Town, South Africa",Summer,35–44,Female,Domestic,1,10,Visiting Friends & Family,229,2290,Hotel (5-star)
+TVA-00032,2023-03-08,Brazil,"Dubai, UAE",Spring,35–44,Female,International,2,19,Visiting Friends & Family,235,7591,Airbnb / Vacation Rental
+TVA-00033,2022-11-14,Netherlands,"Amsterdam, Netherlands",Autumn,18–24,Female,Domestic,4,11,Health & Wellness,241,8218,Hotel (4-star)
+TVA-00034,2024-06-25,"Dubai Emirate, UAE","Marrakech, Morocco",Summer,18–24,Female,Domestic,2,13,Leisure / Holiday,45,995,Camping / Glamping
+TVA-00035,2024-07-22,China,"London, UK",Summer,35–44,Male,International,2,20,Visiting Friends & Family,179,6086,Hostel
+TVA-00036,2024-10-06,"Île-de-France, France","Prague, Czechia",Autumn,45–54,Female,Domestic,6,7,Health & Wellness,106,3339,Airbnb / Vacation Rental
+TVA-00037,2024-04-06,"Noord-Holland, NL","Cape Town, South Africa",Spring,25–34,Female,Domestic,1,12,Leisure / Holiday,74,888,Hostel
+TVA-00038,2023-07-03,Spain,"Barcelona, Spain",Summer,25–34,Male,International,4,12,Adventure,202,7514,Hotel (4-star)
+TVA-00039,2024-01-09,Canada,"Istanbul, Turkey",Winter,18–24,Female,International,3,10,Visiting Friends & Family,143,3432,Hotel (4-star)
+TVA-00040,2024-07-03,Sweden,"Bali, Indonesia",Summer,55–64,Male,International,2,10,Leisure / Holiday,128,2176,Hotel (4-star)
+TVA-00041,2023-11-01,"Dubai Emirate, UAE","Dubai, UAE",Autumn,65+,Male,Domestic,1,5,Business / MICE,267,1335,Airbnb / Vacation Rental
+TVA-00042,2022-05-11,Central Thailand,"Bangkok, Thailand",Spring,25–34,Male,Domestic,4,4,Business / MICE,109,1352,Airbnb / Vacation Rental
+TVA-00043,2024-07-08,Spain,"Tokyo, Japan",Summer,55–64,Male,International,3,7,Leisure / Holiday,401,6737,Hotel (5-star)
+TVA-00044,2024-03-27,Brazil,"Dubai, UAE",Spring,35–44,Female,International,5,13,Visiting Friends & Family,331,16351,Hotel (3-star)
+TVA-00045,2024-08-07,"Dubai Emirate, UAE","Prague, Czechia",Summer,55–64,Female,Domestic,6,9,Leisure / Holiday,144,5832,Hotel (4-star)
+TVA-00046,2024-01-06,United States,"Bangkok, Thailand",Winter,35–44,Female,International,3,9,Leisure / Holiday,37,799,Friends / Family Home
+TVA-00047,2024-02-04,Spain,"Sydney, Australia",Winter,25–34,Female,International,1,12,Leisure / Holiday,137,1644,Hostel
+TVA-00048,2023-03-27,Sweden,"Amsterdam, Netherlands",Spring,55–64,Female,International,2,5,Business / MICE,91,774,Hostel
+TVA-00049,2022-03-18,Japan,"Tokyo, Japan",Spring,45–54,Male,Domestic,2,18,Visiting Friends & Family,223,6824,Hotel (3-star)
+TVA-00050,2023-05-28,South Korea,"Vienna, Austria",Spring,25–34,Non-binary,International,2,17,Adventure,372,10751,Resort
+TVA-00051,2024-06-13,Australia,Singapore,Summer,25–34,Male,International,2,17,Adventure,250,7225,Airbnb / Vacation Rental
+TVA-00052,2022-03-04,South Korea,"Cape Town, South Africa",Spring,35–44,Male,International,5,12,Visiting Friends & Family,242,11035,Resort
+TVA-00053,2024-05-01,Australia,"Sydney, Australia",Spring,45–54,Male,Domestic,2,5,Business / MICE,256,2176,Hotel (4-star)
+TVA-00054,2022-02-13,Saudi Arabia,"Prague, Czechia",Winter,25–34,Female,International,4,9,Adventure,164,4576,Hotel (4-star)
+TVA-00055,2022-08-03,Netherlands,"Amsterdam, Netherlands",Summer,25–34,Male,Domestic,2,4,Leisure / Holiday,172,1170,Airbnb / Vacation Rental
+TVA-00056,2023-09-28,Argentina,"Sydney, Australia",Autumn,55–64,Male,International,2,9,Leisure / Holiday,240,3672,Hotel (4-star)
+TVA-00057,2024-05-23,"Greater London, UK","London, UK",Spring,25–34,Female,Domestic,2,95,Education,338,54587,Hotel (3-star)
+TVA-00058,2024-07-18,United States,"Cancún, Mexico",Summer,45–54,Male,International,2,2,Business / MICE,299,1017,Hotel (5-star)
+TVA-00059,2022-09-24,Australia,"Amsterdam, Netherlands",Autumn,35–44,Male,International,3,14,Leisure / Holiday,304,10214,Hotel (5-star)
+TVA-00060,2024-05-12,India,"Mumbai, India",Spring,45–54,Male,Domestic,6,7,Adventure,190,5985,Hotel (5-star)
+TVA-00061,2024-03-16,"Dubai Emirate, UAE","Dubai, UAE",Spring,25–34,Male,Domestic,4,10,Leisure / Holiday,313,9703,Hotel (4-star)
+TVA-00062,2024-09-19,Sweden,"Sydney, Australia",Autumn,55–64,Female,International,1,13,Visiting Friends & Family,148,1924,Hostel
+TVA-00063,2024-07-19,"New York State, USA","New York, USA",Summer,65+,Female,Domestic,2,12,Leisure / Holiday,333,6793,Hotel (3-star)
+TVA-00064,2024-04-19,India,"Mumbai, India",Spring,25–34,Male,Domestic,2,7,Leisure / Holiday,146,1737,Resort
+TVA-00065,2024-07-23,Spain,"Dubai, UAE",Summer,35–44,Male,International,2,14,Adventure,88,2094,Friends / Family Home
+TVA-00066,2024-04-10,India,"Cancún, Mexico",Spring,18–24,Female,International,1,43,Education,119,5117,Hotel (3-star)
+TVA-00067,2023-05-14,Canada,"Istanbul, Turkey",Spring,25–34,Female,International,1,2,Transit,222,444,Resort
+TVA-00068,2023-03-04,Japan,"Barcelona, Spain",Spring,45–54,Male,International,4,4,Leisure / Holiday,239,2964,Hotel (4-star)
+TVA-00069,2023-03-28,"Istanbul Province, Turkey","Cape Town, South Africa",Spring,45–54,Male,Domestic,5,21,Adventure,98,7820,Hotel (3-star)
+TVA-00070,2024-02-17,France,"Cape Town, South Africa",Winter,35–44,Male,International,2,14,Leisure / Holiday,102,2428,Hotel (3-star)
+TVA-00071,2024-06-28,Turkey,"Dubai, UAE",Summer,35–44,Female,International,3,3,Leisure / Holiday,221,1591,Airbnb / Vacation Rental
+TVA-00072,2024-06-03,Sweden,"Cancún, Mexico",Summer,35–44,Male,International,2,11,Adventure,154,2880,Hotel (3-star)
+TVA-00073,2022-09-19,China,"Paris, France",Autumn,18–24,Male,International,2,3,Business / MICE,389,1984,Hotel (5-star)
+TVA-00074,2024-02-13,Netherlands,"Paris, France",Winter,45–54,Male,International,4,10,Leisure / Holiday,264,8184,Hotel (4-star)
+TVA-00075,2024-04-15,Mexico,"Marrakech, Morocco",Spring,18–24,Female,International,5,7,Leisure / Holiday,85,2261,Hotel (3-star)
+TVA-00076,2024-07-22,Turkey,"Bali, Indonesia",Summer,25–34,Male,International,1,17,Visiting Friends & Family,37,629,Camping / Glamping
+TVA-00077,2024-03-19,Central Thailand,"Bangkok, Thailand",Spring,35–44,Male,Domestic,2,14,Leisure / Holiday,67,1595,Hostel
+TVA-00078,2023-06-19,"Catalonia, Spain","Marrakech, Morocco",Summer,55–64,Female,Domestic,4,2,Business / MICE,62,384,Airbnb / Vacation Rental
+TVA-00079,2022-10-25,Australia,"Sydney, Australia",Autumn,35–44,Male,Domestic,2,14,Leisure / Holiday,90,2142,Camping / Glamping
+TVA-00080,2023-04-23,"Central Region, SG","Prague, Czechia",Spring,45–54,Male,Domestic,4,13,Adventure,105,4231,Hotel (3-star)
+TVA-00081,2024-03-11,Netherlands,"Amsterdam, Netherlands",Spring,45–54,Male,Domestic,1,9,Leisure / Holiday,111,999,Hostel
+TVA-00082,2022-03-09,Sweden,"Dubai, UAE",Spring,55–64,Female,International,3,13,Adventure,169,5273,Hostel
+TVA-00083,2024-06-19,Russia,"Tokyo, Japan",Summer,45–54,Female,International,2,4,Business / MICE,118,802,Hostel
+TVA-00084,2023-06-28,United Kingdom,"Bangkok, Thailand",Summer,35–44,Non-binary,International,3,9,Leisure / Holiday,184,3974,Resort
+TVA-00085,2023-11-13,Italy,"Istanbul, Turkey",Autumn,45–54,Female,International,2,16,Visiting Friends & Family,66,1795,Camping / Glamping
+TVA-00086,2024-04-23,Japan,"Prague, Czechia",Spring,25–34,Male,International,2,1,Transit,185,315,Resort
+TVA-00087,2023-09-20,Canada,"Cancún, Mexico",Autumn,55–64,Non-binary,International,6,34,Education,152,23256,Hotel (3-star)
+TVA-00088,2024-05-24,France,"Paris, France",Spring,55–64,Male,Domestic,3,10,Leisure / Holiday,89,2136,Camping / Glamping
+TVA-00089,2024-05-21,"New York State, USA","New York, USA",Spring,65+,Female,Domestic,1,3,Leisure / Holiday,196,588,Hostel
+TVA-00090,2023-05-26,India,"Vienna, Austria",Spring,25–34,Male,International,3,6,Adventure,210,3024,Hotel (3-star)
+TVA-00091,2024-01-27,"New York State, USA","New York, USA",Winter,25–34,Male,Domestic,4,102,Education,364,115097,Hotel (4-star)
+TVA-00092,2024-07-02,"New York State, USA","New York, USA",Summer,45–54,Male,Domestic,3,5,Business / MICE,441,5292,Resort
+TVA-00093,2024-11-22,Spain,"Bali, Indonesia",Autumn,25–34,Male,International,1,4,Leisure / Holiday,99,396,Hotel (3-star)
+TVA-00094,2024-09-14,United States,"Cairo, Egypt",Autumn,25–34,Male,International,1,6,Leisure / Holiday,63,378,Airbnb / Vacation Rental
+TVA-00095,2024-09-03,"Île-de-France, France",Singapore,Autumn,45–54,Male,Domestic,4,14,Visiting Friends & Family,246,10676,Airbnb / Vacation Rental
+TVA-00096,2023-06-14,Argentina,"Tokyo, Japan",Summer,18–24,Male,International,1,4,Business / MICE,370,1480,Hotel (5-star)
+TVA-00097,2023-06-11,Spain,Singapore,Summer,35–44,Male,International,1,4,Business / MICE,407,1628,Hotel (4-star)
+TVA-00098,2024-02-04,India,"Mumbai, India",Winter,35–44,Female,International,4,7,Leisure / Holiday,112,2430,Hotel (3-star)
+TVA-00099,2022-01-09,Sweden,"Cancún, Mexico",Winter,45–54,Male,International,3,14,Visiting Friends & Family,76,2554,Hostel
+TVA-00100,2024-06-13,India,"Istanbul, Turkey",Summer,25–34,Female,International,2,10,Leisure / Holiday,254,4318,Hotel (5-star)
+TVA-00101,2023-12-01,"Istanbul Province, Turkey","Istanbul, Turkey",Winter,25–34,Male,Domestic,2,14,Leisure / Holiday,170,4046,Hotel (4-star)
+TVA-00102,2024-09-02,Netherlands,"Amsterdam, Netherlands",Autumn,25–34,Female,Domestic,1,7,Leisure / Holiday,147,1029,Airbnb / Vacation Rental
+TVA-00103,2024-09-14,"New South Wales, AU","Vienna, Austria",Autumn,35–44,Male,Domestic,2,12,Leisure / Holiday,158,3223,Airbnb / Vacation Rental
+TVA-00104,2023-07-14,Spain,"Tokyo, Japan",Summer,55–64,Non-binary,International,3,17,Visiting Friends & Family,351,14321,Hotel (4-star)
+TVA-00105,2024-03-25,Turkey,"New York, USA",Spring,35–44,Female,International,2,3,Business / MICE,639,3259,Hotel (5-star)
+TVA-00106,2024-09-27,Turkey,Singapore,Autumn,45–54,Female,International,2,14,Health & Wellness,295,7021,Hotel (4-star)
+TVA-00107,2024-08-13,India,"Mumbai, India",Summer,35–44,Female,Domestic,4,19,Adventure,53,3122,Camping / Glamping
+TVA-00108,2023-01-07,"Noord-Holland, NL",Singapore,Winter,25–34,Male,Domestic,3,13,Leisure / Holiday,241,7519,Airbnb / Vacation Rental
+TVA-00109,2022-07-09,"New York State, USA","New York, USA",Summer,55–64,Non-binary,Domestic,3,6,Leisure / Holiday,324,4666,Hotel (4-star)
+TVA-00110,2024-11-01,Germany,"Cairo, Egypt",Autumn,25–34,Male,International,4,8,Health & Wellness,100,2480,Hotel (3-star)
+TVA-00111,2024-08-19,Spain,"Barcelona, Spain",Summer,25–34,Female,Domestic,6,1,Transit,153,689,Airbnb / Vacation Rental
+TVA-00112,2023-08-23,United Kingdom,"Cancún, Mexico",Summer,25–34,Male,International,6,6,Leisure / Holiday,42,1134,Friends / Family Home
+TVA-00113,2022-11-21,Sweden,"Barcelona, Spain",Autumn,45–54,Male,International,1,84,Education,118,9912,Airbnb / Vacation Rental
+TVA-00114,2024-11-23,France,"Vienna, Austria",Autumn,35–44,Female,International,3,3,Leisure / Holiday,208,1498,Hotel (3-star)
+TVA-00115,2022-10-08,Spain,"Tokyo, Japan",Autumn,35–44,Male,International,3,13,Adventure,212,6614,Airbnb / Vacation Rental
+TVA-00116,2023-04-05,"Greater London, UK","London, UK",Spring,18–24,Male,Domestic,1,4,Business / MICE,531,2124,Resort
+TVA-00117,2024-06-17,United Kingdom,"Cancún, Mexico",Summer,55–64,Female,International,3,8,Leisure / Holiday,173,3322,Hotel (4-star)
+TVA-00118,2023-06-18,Italy,"Rome, Italy",Summer,18–24,Female,Domestic,2,10,Leisure / Holiday,220,3740,Hotel (4-star)
+TVA-00119,2023-03-10,Brazil,"Paris, France",Spring,25–34,Male,International,4,4,Leisure / Holiday,363,4501,Resort
+TVA-00120,2023-01-24,China,"Cairo, Egypt",Winter,55–64,Female,International,2,9,Leisure / Holiday,123,1882,Hotel (5-star)
+TVA-00121,2023-12-16,Saudi Arabia,"Marrakech, Morocco",Winter,55–64,Female,International,3,2,Transit,134,643,Hotel (5-star)
+TVA-00122,2023-09-18,Brazil,"Amsterdam, Netherlands",Autumn,25–34,Female,International,3,5,Business / MICE,169,2028,Hotel (3-star)
+TVA-00123,2024-10-24,"Dubai Emirate, UAE","Dubai, UAE",Autumn,45–54,Male,Domestic,3,4,Leisure / Holiday,341,3274,Hotel (4-star)
+TVA-00124,2022-05-23,"Dubai Emirate, UAE","Dubai, UAE",Spring,45–54,Female,Domestic,1,7,Visiting Friends & Family,550,3850,Resort
+TVA-00125,2023-03-15,"New York State, USA","New York, USA",Spring,35–44,Male,Domestic,2,21,Adventure,372,13280,Hotel (3-star)
+TVA-00126,2024-03-06,France,"Cancún, Mexico",Spring,25–34,Male,International,2,4,Leisure / Holiday,137,932,Hotel (3-star)
+TVA-00127,2024-12-26,Spain,"Sydney, Australia",Winter,25–34,Female,International,2,1,Transit,208,354,Hotel (3-star)
+TVA-00128,2024-07-14,South Korea,"Bangkok, Thailand",Summer,25–34,Female,International,2,5,Leisure / Holiday,158,1343,Resort
+TVA-00129,2024-04-18,"Kantō, Japan",Singapore,Spring,25–34,Female,Domestic,4,11,Leisure / Holiday,123,4194,Hostel
+TVA-00130,2023-12-22,Turkey,"Rome, Italy",Winter,45–54,Female,International,2,9,Health & Wellness,51,780,Friends / Family Home
+TVA-00131,2024-03-05,China,"New York, USA",Spring,45–54,Female,International,2,6,Leisure / Holiday,475,4845,Hotel (4-star)
+TVA-00132,2022-08-11,United Kingdom,"Marrakech, Morocco",Summer,45–54,Female,International,6,2,Business / MICE,65,585,Airbnb / Vacation Rental
+TVA-00133,2023-09-07,Italy,"Dubai, UAE",Autumn,35–44,Male,International,2,8,Leisure / Holiday,235,3196,Airbnb / Vacation Rental
+TVA-00134,2022-04-05,France,"Vienna, Austria",Spring,45–54,Female,International,5,4,Business / MICE,151,2295,Airbnb / Vacation Rental
+TVA-00135,2024-03-05,Spain,"Barcelona, Spain",Spring,45–54,Female,Domestic,3,117,Education,106,29765,Hostel
+TVA-00136,2024-10-03,"New York State, USA","Marrakech, Morocco",Autumn,25–34,Female,Domestic,2,105,Education,75,13388,Hotel (3-star)
+TVA-00137,2024-12-05,"Istanbul Province, Turkey","Istanbul, Turkey",Winter,18–24,Male,Domestic,1,4,Leisure / Holiday,211,844,Hotel (5-star)
+TVA-00138,2023-02-13,South Korea,"Tokyo, Japan",Winter,18–24,Female,International,5,6,Leisure / Holiday,103,2348,Friends / Family Home
+TVA-00139,2024-02-27,Canada,"Barcelona, Spain",Winter,18–24,Non-binary,International,1,13,Leisure / Holiday,190,2470,Hotel (3-star)
+TVA-00140,2022-12-17,Spain,"Mumbai, India",Winter,35–44,Female,International,2,6,Health & Wellness,124,1265,Hotel (3-star)
+TVA-00141,2022-01-25,India,"Rome, Italy",Winter,18–24,Female,International,1,1,Transit,167,167,Airbnb / Vacation Rental
+TVA-00142,2024-02-23,Australia,"Sydney, Australia",Winter,45–54,Male,Domestic,3,5,Leisure / Holiday,246,2952,Hotel (4-star)
+TVA-00143,2022-07-20,India,"Dubai, UAE",Summer,18–24,Female,International,1,14,Visiting Friends & Family,577,8078,Hotel (5-star)
+TVA-00144,2023-01-28,South Korea,"Marrakech, Morocco",Winter,25–34,Non-binary,International,3,8,Leisure / Holiday,137,2630,Resort
+TVA-00145,2022-04-09,Brazil,"Prague, Czechia",Spring,35–44,Male,International,3,6,Business / MICE,83,1195,Airbnb / Vacation Rental
+TVA-00146,2023-07-26,Sweden,"Dubai, UAE",Summer,35–44,Male,International,2,18,Adventure,416,12730,Resort
+TVA-00147,2024-03-13,France,"Barcelona, Spain",Spring,35–44,Female,International,3,5,Business / MICE,242,2904,Resort
+TVA-00148,2023-09-09,Turkey,Singapore,Autumn,18–24,Female,International,4,10,Leisure / Holiday,387,11997,Hotel (4-star)
+TVA-00149,2024-09-10,Germany,"Amsterdam, Netherlands",Autumn,25–34,Male,International,2,12,Leisure / Holiday,60,1224,Friends / Family Home
+TVA-00150,2024-02-08,Argentina,"Sydney, Australia",Winter,25–34,Male,International,5,5,Health & Wellness,319,6061,Resort
+TVA-00151,2024-03-03,Brazil,Singapore,Spring,18–24,Male,International,3,10,Leisure / Holiday,98,2352,Friends / Family Home
+TVA-00152,2024-03-19,Australia,"Sydney, Australia",Spring,35–44,Female,Domestic,4,20,Visiting Friends & Family,114,7068,Hostel
+TVA-00153,2023-06-04,India,"London, UK",Summer,65+,Male,International,2,11,Leisure / Holiday,203,3796,Airbnb / Vacation Rental
+TVA-00154,2024-08-04,France,"Vienna, Austria",Summer,55–64,Female,International,1,6,Business / MICE,180,1080,Hotel (3-star)
+TVA-00155,2024-07-25,"Dubai Emirate, UAE","Dubai, UAE",Summer,18–24,Male,Domestic,4,11,Visiting Friends & Family,341,11628,Hotel (4-star)
+TVA-00156,2023-12-26,South Korea,Singapore,Winter,25–34,Female,International,3,4,Leisure / Holiday,274,2630,Hotel (3-star)
+TVA-00157,2024-07-06,"Kantō, Japan","Tokyo, Japan",Summer,35–44,Female,Domestic,1,3,Business / MICE,333,999,Hotel (4-star)
+TVA-00158,2024-09-10,Spain,"Barcelona, Spain",Autumn,55–64,Female,International,3,6,Adventure,168,2419,Hotel (3-star)
+TVA-00159,2023-11-05,"Tuscany, Italy","Vienna, Austria",Autumn,35–44,Female,Domestic,2,6,Leisure / Holiday,121,1234,Hostel
+TVA-00160,2024-12-28,Argentina,Singapore,Winter,25–34,Male,International,3,14,Adventure,299,10046,Hotel (3-star)
+TVA-00161,2024-01-13,France,"Paris, France",Winter,25–34,Female,Domestic,2,6,Visiting Friends & Family,185,1887,Hotel (3-star)
+TVA-00162,2022-10-22,Central Thailand,"Bangkok, Thailand",Autumn,25–34,Male,Domestic,2,14,Health & Wellness,182,4332,Resort
+TVA-00163,2024-02-07,China,"Bangkok, Thailand",Winter,25–34,Female,International,1,8,Adventure,189,1512,Hotel (5-star)
+TVA-00164,2022-06-10,Mexico,"Barcelona, Spain",Summer,45–54,Male,International,2,5,Business / MICE,298,2533,Resort
+TVA-00165,2024-02-01,Brazil,"Cairo, Egypt",Winter,45–54,Female,International,2,9,Leisure / Holiday,112,1714,Hotel (4-star)
+TVA-00166,2022-08-23,Spain,"Dubai, UAE",Summer,25–34,Female,International,6,110,Education,425,210375,Hotel (4-star)
+TVA-00167,2024-10-04,Russia,"Vienna, Austria",Autumn,25–34,Male,International,2,11,Leisure / Holiday,61,1141,Friends / Family Home
+TVA-00168,2024-05-17,Turkey,"Bali, Indonesia",Spring,25–34,Male,International,2,6,Adventure,186,1897,Resort
+TVA-00169,2022-11-15,Mexico,"New York, USA",Autumn,45–54,Female,International,1,3,Leisure / Holiday,157,471,Hostel
+TVA-00170,2024-03-15,"Catalonia, Spain","Cape Town, South Africa",Spring,18–24,Male,Domestic,3,1,Transit,38,91,Friends / Family Home
+TVA-00171,2022-05-02,Australia,"Paris, France",Spring,35–44,Female,International,3,6,Business / MICE,236,3398,Hotel (4-star)
+TVA-00172,2023-10-27,Spain,"Bangkok, Thailand",Autumn,25–34,Male,International,3,5,Business / MICE,112,1344,Hotel (3-star)
+TVA-00173,2023-05-13,Spain,"Barcelona, Spain",Spring,25–34,Female,Domestic,5,4,Business / MICE,173,2630,Hotel (4-star)
+TVA-00174,2023-09-06,South Korea,"Mumbai, India",Autumn,35–44,Female,International,4,3,Business / MICE,100,930,Hotel (3-star)
+TVA-00175,2024-09-18,Sweden,"Tokyo, Japan",Autumn,45–54,Male,International,2,5,Leisure / Holiday,178,1513,Airbnb / Vacation Rental
+TVA-00176,2023-08-16,Netherlands,Singapore,Summer,55–64,Male,International,3,50,Education,223,26760,Airbnb / Vacation Rental
+TVA-00177,2024-06-19,United States,"Paris, France",Summer,25–34,Male,International,1,20,Adventure,187,3740,Hotel (3-star)
+TVA-00178,2022-10-20,India,"Cairo, Egypt",Autumn,35–44,Male,International,2,16,Adventure,78,2122,Airbnb / Vacation Rental
+TVA-00179,2024-01-08,Brazil,"Marrakech, Morocco",Winter,35–44,Female,International,3,6,Business / MICE,69,994,Airbnb / Vacation Rental
+TVA-00180,2024-12-09,China,"Vienna, Austria",Winter,65+,Male,International,6,7,Leisure / Holiday,181,5702,Hotel (3-star)
+TVA-00181,2024-05-15,Central Thailand,"Cape Town, South Africa",Spring,35–44,Female,Domestic,4,13,Leisure / Holiday,49,1975,Camping / Glamping
+TVA-00182,2022-11-01,Mexico,"Cancún, Mexico",Autumn,45–54,Female,Domestic,5,7,Adventure,52,1383,Camping / Glamping
+TVA-00183,2023-11-03,"Greater London, UK","London, UK",Autumn,25–34,Male,Domestic,2,19,Adventure,444,14341,Resort
+TVA-00184,2022-02-24,Australia,"Bangkok, Thailand",Winter,45–54,Female,International,5,11,Visiting Friends & Family,57,2383,Camping / Glamping
+TVA-00185,2023-05-15,Brazil,"Marrakech, Morocco",Spring,18–24,Male,International,5,11,Leisure / Holiday,62,2592,Airbnb / Vacation Rental
+TVA-00186,2023-10-23,Sweden,"Cape Town, South Africa",Autumn,35–44,Male,International,2,14,Visiting Friends & Family,166,3951,Hotel (4-star)
+TVA-00187,2023-12-24,Germany,"Dubai, UAE",Winter,45–54,Female,International,5,8,Leisure / Holiday,189,5746,Hostel
+TVA-00188,2024-08-25,Sweden,"New York, USA",Summer,18–24,Male,International,6,1,Transit,212,954,Airbnb / Vacation Rental
+TVA-00189,2024-11-26,"Noord-Holland, NL","Cape Town, South Africa",Autumn,55–64,Male,Domestic,1,153,Education,38,5814,Friends / Family Home
+TVA-00190,2023-11-14,United Kingdom,"Cape Town, South Africa",Autumn,45–54,Male,International,4,4,Leisure / Holiday,162,2009,Hotel (4-star)
+TVA-00191,2022-02-02,United States,"Bali, Indonesia",Winter,35–44,Male,International,2,12,Leisure / Holiday,189,3856,Hotel (5-star)
+TVA-00192,2024-02-16,Italy,Singapore,Winter,25–34,Non-binary,International,1,5,Business / MICE,138,690,Hostel
+TVA-00193,2024-12-21,Netherlands,"Amsterdam, Netherlands",Winter,45–54,Male,Domestic,4,4,Leisure / Holiday,144,1786,Airbnb / Vacation Rental
+TVA-00194,2023-11-19,United Kingdom,"Cairo, Egypt",Autumn,55–64,Male,International,4,13,Health & Wellness,103,4151,Hotel (4-star)
+TVA-00195,2023-05-05,"Greater London, UK","Cairo, Egypt",Spring,45–54,Female,Domestic,2,13,Leisure / Holiday,80,1768,Hotel (3-star)
+TVA-00196,2024-05-16,Saudi Arabia,Singapore,Spring,45–54,Male,International,6,9,Leisure / Holiday,248,10044,Airbnb / Vacation Rental
+TVA-00197,2024-04-15,Sweden,"Barcelona, Spain",Spring,45–54,Male,International,2,13,Leisure / Holiday,91,2011,Hostel
+TVA-00198,2024-09-24,"Istanbul Province, Turkey","Bali, Indonesia",Autumn,25–34,Male,Domestic,1,8,Adventure,27,216,Friends / Family Home
+TVA-00199,2024-08-14,South Korea,"Prague, Czechia",Summer,65+,Non-binary,International,1,3,Leisure / Holiday,69,207,Hostel
+TVA-00200,2023-10-23,Japan,"Paris, France",Autumn,55–64,Male,International,3,21,Adventure,393,19807,Resort
+TVA-00201,2024-04-26,India,"Mumbai, India",Spring,25–34,Female,Domestic,1,7,Business / MICE,197,1379,Resort
+TVA-00202,2024-07-27,Mexico,"Bangkok, Thailand",Summer,18–24,Male,International,4,4,Business / MICE,55,682,Hostel
+TVA-00203,2024-11-01,Australia,"Sydney, Australia",Autumn,45–54,Male,Domestic,3,5,Business / MICE,308,3696,Hotel (4-star)
+TVA-00204,2024-08-23,Netherlands,"London, UK",Summer,55–64,Male,International,4,4,Leisure / Holiday,300,3720,Hotel (4-star)
+TVA-00205,2024-10-20,Japan,"Tokyo, Japan",Autumn,45–54,Female,Domestic,3,13,Adventure,96,2995,Friends / Family Home
+TVA-00206,2022-04-26,Sweden,"Paris, France",Spring,18–24,Male,International,1,10,Visiting Friends & Family,173,1730,Airbnb / Vacation Rental
+TVA-00207,2024-01-19,Australia,"Mumbai, India",Winter,18–24,Female,International,3,4,Leisure / Holiday,103,989,Hotel (3-star)
+TVA-00208,2024-07-10,Argentina,"Marrakech, Morocco",Summer,45–54,Male,International,5,11,Leisure / Holiday,58,2424,Hostel
+TVA-00209,2024-06-03,"Greater London, UK","Marrakech, Morocco",Summer,45–54,Female,Domestic,2,12,Health & Wellness,101,2060,Hotel (3-star)
+TVA-00210,2024-11-03,Russia,"Amsterdam, Netherlands",Autumn,25–34,Male,International,2,7,Leisure / Holiday,303,3606,Resort
+TVA-00211,2024-10-16,"Greater London, UK","Cairo, Egypt",Autumn,45–54,Male,Domestic,6,12,Visiting Friends & Family,105,5670,Hotel (4-star)
+TVA-00212,2023-01-18,Saudi Arabia,"Istanbul, Turkey",Winter,55–64,Female,International,3,6,Leisure / Holiday,108,1555,Hotel (3-star)
+TVA-00213,2022-07-24,Spain,"Barcelona, Spain",Summer,18–24,Male,Domestic,2,3,Leisure / Holiday,240,1224,Hotel (4-star)
+TVA-00214,2024-05-07,South Korea,"London, UK",Spring,25–34,Male,International,4,12,Leisure / Holiday,92,3422,Friends / Family Home
+TVA-00215,2024-10-04,South Korea,"Sydney, Australia",Autumn,55–64,Male,International,5,5,Leisure / Holiday,90,1710,Friends / Family Home
+TVA-00216,2024-04-02,France,"Marrakech, Morocco",Spring,45–54,Female,International,1,7,Adventure,88,616,Airbnb / Vacation Rental
+TVA-00217,2024-06-12,Sweden,"Prague, Czechia",Summer,25–34,Female,International,1,13,Leisure / Holiday,46,598,Camping / Glamping
+TVA-00218,2024-08-08,"Noord-Holland, NL","Marrakech, Morocco",Summer,55–64,Female,Domestic,1,3,Business / MICE,80,240,Airbnb / Vacation Rental
+TVA-00219,2024-03-23,Germany,"Bali, Indonesia",Spring,45–54,Female,International,2,2,Business / MICE,83,282,Hotel (3-star)
+TVA-00220,2024-03-26,Germany,"New York, USA",Spring,45–54,Male,International,3,2,Transit,283,1358,Airbnb / Vacation Rental
+TVA-00221,2023-11-02,"Noord-Holland, NL","Vienna, Austria",Autumn,35–44,Male,Domestic,1,99,Education,300,29700,Resort
+TVA-00222,2024-03-07,Japan,"New York, USA",Spring,65+,Male,International,2,6,Leisure / Holiday,98,1000,Friends / Family Home
+TVA-00223,2023-06-17,Italy,"Marrakech, Morocco",Summer,55–64,Female,International,1,6,Visiting Friends & Family,122,732,Hotel (4-star)
+TVA-00224,2024-06-02,India,"Mumbai, India",Summer,35–44,Female,Domestic,4,8,Leisure / Holiday,159,3943,Hotel (4-star)
+TVA-00225,2023-12-17,Sweden,"Marrakech, Morocco",Winter,25–34,Female,International,1,11,Visiting Friends & Family,40,440,Hostel
+TVA-00226,2023-06-25,United States,"Bangkok, Thailand",Summer,18–24,Male,International,3,5,Visiting Friends & Family,94,1128,Hotel (3-star)
+TVA-00227,2022-05-01,Netherlands,"New York, USA",Spring,35–44,Non-binary,International,5,1,Transit,473,1797,Hotel (4-star)
+TVA-00228,2024-03-21,France,"Paris, France",Spring,45–54,Male,Domestic,4,9,Leisure / Holiday,75,2092,Friends / Family Home
+TVA-00229,2023-05-01,South Korea,"Cape Town, South Africa",Spring,35–44,Female,International,1,4,Leisure / Holiday,135,540,Hotel (3-star)
+TVA-00230,2023-08-02,Spain,"Marrakech, Morocco",Summer,18–24,Male,International,5,5,Leisure / Holiday,183,3477,Hotel (5-star)
+TVA-00231,2024-06-18,Argentina,"Vienna, Austria",Summer,35–44,Male,International,3,7,Business / MICE,156,2621,Airbnb / Vacation Rental
+TVA-00232,2024-10-27,Japan,"Cancún, Mexico",Autumn,35–44,Female,International,1,11,Leisure / Holiday,61,671,Friends / Family Home
+TVA-00233,2023-07-14,Argentina,"Vienna, Austria",Summer,18–24,Male,International,4,13,Leisure / Holiday,207,8342,Hotel (3-star)
+TVA-00234,2024-04-11,India,"Cancún, Mexico",Spring,65+,Male,International,2,7,Leisure / Holiday,224,2666,Hotel (4-star)
+TVA-00235,2024-07-05,Japan,"London, UK",Summer,18–24,Male,International,5,3,Leisure / Holiday,386,4400,Hotel (4-star)
+TVA-00236,2023-11-16,South Korea,"London, UK",Autumn,45–54,Female,International,1,7,Business / MICE,414,2898,Hotel (4-star)
+TVA-00237,2024-11-17,Italy,"Amsterdam, Netherlands",Autumn,25–34,Female,International,2,6,Leisure / Holiday,216,2203,Hotel (4-star)
+TVA-00238,2024-07-03,Netherlands,"Amsterdam, Netherlands",Summer,55–64,Female,Domestic,2,12,Leisure / Holiday,216,4406,Hotel (3-star)
+TVA-00239,2022-07-23,Australia,"Sydney, Australia",Summer,18–24,Female,Domestic,2,11,Leisure / Holiday,282,5273,Hotel (4-star)
+TVA-00240,2023-11-01,Australia,"Prague, Czechia",Autumn,25–34,Female,International,5,63,Education,139,33277,Hotel (4-star)
+TVA-00241,2024-06-20,"Dubai Emirate, UAE","Prague, Czechia",Summer,35–44,Female,Domestic,4,4,Leisure / Holiday,34,422,Friends / Family Home
+TVA-00242,2024-08-10,France,"Istanbul, Turkey",Summer,25–34,Male,International,3,14,Leisure / Holiday,160,5376,Hotel (4-star)
+TVA-00243,2023-10-03,"Kantō, Japan","Prague, Czechia",Autumn,55–64,Female,Domestic,1,7,Business / MICE,167,1169,Hotel (5-star)
+TVA-00244,2024-05-16,Russia,Singapore,Spring,25–34,Male,International,1,10,Leisure / Holiday,469,4690,Resort
+TVA-00245,2023-04-08,"New York State, USA","Cape Town, South Africa",Spring,45–54,Female,Domestic,4,6,Visiting Friends & Family,118,2195,Hotel (3-star)
+TVA-00246,2023-01-18,France,"Paris, France",Winter,65+,Female,Domestic,4,4,Business / MICE,276,3422,Hotel (4-star)
+TVA-00247,2024-03-23,"Dubai Emirate, UAE","Dubai, UAE",Spring,25–34,Male,Domestic,1,9,Leisure / Holiday,284,2556,Hotel (3-star)
+TVA-00248,2024-08-28,Australia,"Marrakech, Morocco",Summer,35–44,Male,International,3,4,Business / MICE,79,758,Airbnb / Vacation Rental
+TVA-00249,2023-08-13,Russia,"Mumbai, India",Summer,65+,Female,International,6,5,Leisure / Holiday,113,2543,Hotel (3-star)
+TVA-00250,2022-11-27,Netherlands,"Bangkok, Thailand",Autumn,35–44,Female,International,2,70,Education,175,20825,Hotel (4-star)
+TVA-00251,2023-03-18,France,"Cape Town, South Africa",Spring,55–64,Female,International,5,6,Visiting Friends & Family,184,4195,Hotel (4-star)
+TVA-00252,2024-10-26,Japan,"Mumbai, India",Autumn,25–34,Male,International,1,4,Business / MICE,93,372,Airbnb / Vacation Rental
+TVA-00253,2023-12-19,South Korea,Singapore,Winter,45–54,Female,International,3,8,Leisure / Holiday,99,1901,Friends / Family Home
+TVA-00254,2023-01-04,Australia,"Amsterdam, Netherlands",Winter,65+,Female,International,2,10,Leisure / Holiday,178,3026,Hotel (3-star)
+TVA-00255,2024-11-12,Central Thailand,"Bangkok, Thailand",Autumn,25–34,Female,Domestic,1,3,Leisure / Holiday,126,378,Hotel (3-star)
+TVA-00256,2024-01-21,Central Thailand,"Bangkok, Thailand",Winter,55–64,Male,Domestic,3,10,Health & Wellness,38,912,Friends / Family Home
+TVA-00257,2024-08-21,Australia,"Sydney, Australia",Summer,45–54,Female,Domestic,2,7,Business / MICE,205,2440,Hotel (3-star)
+TVA-00258,2024-09-23,Germany,"Vienna, Austria",Autumn,25–34,Male,International,1,10,Visiting Friends & Family,306,3060,Resort
+TVA-00259,2022-09-12,Germany,"Sydney, Australia",Autumn,65+,Female,International,1,14,Leisure / Holiday,89,1246,Friends / Family Home
+TVA-00260,2023-05-25,Japan,"Bali, Indonesia",Spring,25–34,Male,International,4,4,Business / MICE,141,1748,Hotel (4-star)
+TVA-00261,2024-09-06,Saudi Arabia,"Cairo, Egypt",Autumn,25–34,Male,International,3,2,Business / MICE,170,816,Hotel (5-star)
+TVA-00262,2024-01-01,Sweden,"Bangkok, Thailand",Winter,18–24,Female,International,4,5,Business / MICE,114,1767,Hotel (3-star)
+TVA-00263,2024-01-08,Argentina,"Cancún, Mexico",Winter,18–24,Female,International,2,10,Health & Wellness,120,2040,Hotel (3-star)
+TVA-00264,2022-08-01,"Kantō, Japan","Bali, Indonesia",Summer,25–34,Male,Domestic,1,4,Leisure / Holiday,73,292,Airbnb / Vacation Rental
+TVA-00265,2022-03-12,United States,"Barcelona, Spain",Spring,45–54,Male,International,3,14,Health & Wellness,127,4267,Airbnb / Vacation Rental
+TVA-00266,2024-02-08,United Kingdom,"New York, USA",Winter,65+,Female,International,1,95,Education,101,9595,Friends / Family Home
+TVA-00267,2024-01-22,Saudi Arabia,"Tokyo, Japan",Winter,35–44,Male,International,1,3,Leisure / Holiday,103,309,Camping / Glamping
+TVA-00268,2023-03-21,Netherlands,"Amsterdam, Netherlands",Spring,45–54,Male,Domestic,2,14,Leisure / Holiday,90,2142,Hostel
+TVA-00269,2022-07-27,"Greater London, UK","London, UK",Summer,25–34,Male,Domestic,2,10,Leisure / Holiday,418,7106,Hotel (4-star)
+TVA-00270,2024-07-08,Sweden,"Bangkok, Thailand",Summer,25–34,Male,International,1,9,Leisure / Holiday,169,1521,Hotel (5-star)
+TVA-00271,2024-04-15,United Kingdom,"Marrakech, Morocco",Spring,55–64,Non-binary,International,4,14,Adventure,78,3385,Airbnb / Vacation Rental
+TVA-00272,2023-09-13,Italy,"Marrakech, Morocco",Autumn,45–54,Male,International,2,12,Health & Wellness,70,1428,Airbnb / Vacation Rental
+TVA-00273,2024-07-04,Italy,"Bali, Indonesia",Summer,35–44,Male,International,3,141,Education,50,16920,Camping / Glamping
+TVA-00274,2023-04-18,Central Thailand,"Bangkok, Thailand",Spring,35–44,Female,Domestic,4,3,Leisure / Holiday,236,2195,Hotel (5-star)
+TVA-00275,2024-12-16,Germany,"Amsterdam, Netherlands",Winter,35–44,Male,International,2,15,Visiting Friends & Family,95,2423,Hostel
+TVA-00276,2024-08-24,"Central Region, SG","Cape Town, South Africa",Summer,65+,Male,Domestic,4,7,Visiting Friends & Family,48,1042,Camping / Glamping
+TVA-00277,2023-01-25,Germany,"Dubai, UAE",Winter,35–44,Male,International,3,7,Business / MICE,319,5359,Hotel (4-star)
+TVA-00278,2024-05-15,Australia,"Sydney, Australia",Spring,35–44,Female,Domestic,4,4,Business / MICE,313,3881,Hotel (4-star)
+TVA-00279,2023-08-16,Turkey,"Istanbul, Turkey",Summer,45–54,Male,International,2,5,Leisure / Holiday,130,1105,Hotel (3-star)
+TVA-00280,2022-04-17,"Central Region, SG",Singapore,Spring,18–24,Male,Domestic,2,92,Education,298,46607,Hotel (3-star)
+TVA-00281,2024-12-05,Turkey,"Istanbul, Turkey",Winter,18–24,Female,International,6,9,Leisure / Holiday,106,4293,Airbnb / Vacation Rental
+TVA-00282,2023-11-04,Russia,"Marrakech, Morocco",Autumn,35–44,Female,International,3,11,Leisure / Holiday,97,2561,Hotel (4-star)
+TVA-00283,2022-03-10,Netherlands,"Prague, Czechia",Spring,25–34,Female,International,1,55,Education,111,6105,Hotel (3-star)
+TVA-00284,2024-04-04,"New York State, USA","Prague, Czechia",Spring,25–34,Male,Domestic,2,37,Education,48,3019,Camping / Glamping
+TVA-00285,2022-01-12,Sweden,"Amsterdam, Netherlands",Winter,45–54,Female,International,3,4,Business / MICE,224,2150,Hotel (3-star)
+TVA-00286,2024-08-25,United Kingdom,"Sydney, Australia",Summer,35–44,Female,International,1,13,Leisure / Holiday,229,2977,Airbnb / Vacation Rental
+TVA-00287,2022-11-13,Italy,"Rome, Italy",Autumn,25–34,Female,International,5,7,Health & Wellness,158,4203,Hotel (3-star)
+TVA-00288,2024-12-22,Argentina,"Cancún, Mexico",Winter,25–34,Male,International,3,19,Visiting Friends & Family,261,11902,Resort
+TVA-00289,2024-02-19,Russia,"Sydney, Australia",Winter,18–24,Male,International,5,18,Adventure,175,11970,Airbnb / Vacation Rental
+TVA-00290,2024-12-01,"Greater London, UK","Prague, Czechia",Winter,45–54,Female,Domestic,3,6,Visiting Friends & Family,76,1094,Airbnb / Vacation Rental
+TVA-00291,2024-04-22,Canada,"Rome, Italy",Spring,65+,Female,International,2,3,Business / MICE,63,321,Friends / Family Home
+TVA-00292,2023-03-23,"Dubai Emirate, UAE","Dubai, UAE",Spring,25–34,Female,Domestic,3,9,Leisure / Holiday,446,9634,Hotel (4-star)
+TVA-00293,2023-03-05,France,"Paris, France",Spring,35–44,Non-binary,Domestic,1,3,Business / MICE,247,741,Hotel (4-star)
+TVA-00294,2024-06-16,Japan,Singapore,Summer,25–34,Male,International,3,18,Adventure,508,21946,Hotel (5-star)
+TVA-00295,2024-09-20,Sweden,"Mumbai, India",Autumn,55–64,Female,International,2,7,Business / MICE,97,1154,Hotel (3-star)
+TVA-00296,2023-10-15,Turkey,"Istanbul, Turkey",Autumn,45–54,Male,Domestic,2,8,Leisure / Holiday,150,2040,Hotel (4-star)
+TVA-00297,2024-08-04,"Greater London, UK","London, UK",Summer,25–34,Female,Domestic,2,12,Visiting Friends & Family,540,11016,Hotel (5-star)
+TVA-00298,2023-01-12,Central Thailand,"Bangkok, Thailand",Winter,65+,Female,Domestic,1,14,Leisure / Holiday,97,1358,Hotel (3-star)
+TVA-00299,2024-06-11,South Korea,"Mumbai, India",Summer,25–34,Female,International,1,5,Leisure / Holiday,51,255,Hostel
+TVA-00300,2024-06-05,Australia,"Sydney, Australia",Summer,35–44,Male,Domestic,1,4,Visiting Friends & Family,189,756,Hotel (3-star)
+TVA-00301,2024-02-06,Saudi Arabia,"Barcelona, Spain",Winter,35–44,Female,International,4,10,Leisure / Holiday,54,1674,Friends / Family Home
+TVA-00302,2024-07-03,Brazil,"Barcelona, Spain",Summer,55–64,Male,International,2,13,Leisure / Holiday,104,2298,Hostel
+TVA-00303,2023-02-21,Italy,"Rome, Italy",Winter,25–34,Male,Domestic,1,5,Business / MICE,64,320,Friends / Family Home
+TVA-00304,2024-01-10,United Kingdom,"Dubai, UAE",Winter,45–54,Female,International,3,7,Leisure / Holiday,308,5174,Hotel (4-star)
+TVA-00305,2024-02-10,Mexico,"Cancún, Mexico",Winter,25–34,Female,International,3,9,Leisure / Holiday,208,4493,Hotel (4-star)
+TVA-00306,2022-08-17,Mexico,"Cancún, Mexico",Summer,35–44,Male,Domestic,5,12,Leisure / Holiday,122,5563,Hotel (3-star)
+TVA-00307,2023-06-19,Japan,"Vienna, Austria",Summer,55–64,Female,International,2,3,Leisure / Holiday,101,515,Hostel
+TVA-00308,2022-07-05,Mexico,"Mumbai, India",Summer,55–64,Female,International,1,12,Health & Wellness,47,564,Hostel
+TVA-00309,2024-11-14,Canada,"Mumbai, India",Autumn,55–64,Female,International,2,16,Adventure,207,5630,Hotel (5-star)
+TVA-00310,2022-09-24,Netherlands,"Istanbul, Turkey",Autumn,55–64,Non-binary,International,1,5,Leisure / Holiday,53,265,Camping / Glamping
+TVA-00311,2024-05-20,Brazil,"Sydney, Australia",Spring,55–64,Female,International,1,9,Visiting Friends & Family,68,612,Friends / Family Home
+TVA-00312,2023-09-07,Turkey,"Prague, Czechia",Autumn,25–34,Male,International,2,10,Leisure / Holiday,95,1615,Airbnb / Vacation Rental
+TVA-00313,2024-04-21,India,"Mumbai, India",Spring,35–44,Female,Domestic,1,12,Leisure / Holiday,57,684,Hostel
+TVA-00314,2024-02-03,"Dubai Emirate, UAE","Bali, Indonesia",Winter,55–64,Male,Domestic,3,8,Health & Wellness,105,2016,Hotel (4-star)
+TVA-00315,2024-08-11,Canada,"Bali, Indonesia",Summer,65+,Female,International,1,4,Business / MICE,88,352,Hotel (3-star)
+TVA-00316,2023-09-15,Canada,"Paris, France",Autumn,55–64,Female,International,3,14,Leisure / Holiday,181,6082,Hotel (3-star)
+TVA-00317,2024-08-09,"Greater London, UK","Marrakech, Morocco",Summer,65+,Female,Domestic,2,8,Leisure / Holiday,26,354,Friends / Family Home
+TVA-00318,2022-03-11,Australia,"Sydney, Australia",Spring,55–64,Male,Domestic,3,14,Health & Wellness,292,9811,Hotel (4-star)
+TVA-00319,2023-05-16,Netherlands,"Mumbai, India",Spring,55–64,Female,International,4,3,Leisure / Holiday,77,716,Airbnb / Vacation Rental
+TVA-00320,2024-05-26,"Dubai Emirate, UAE","Dubai, UAE",Spring,45–54,Male,Domestic,1,52,Education,600,31200,Hotel (5-star)
+TVA-00321,2023-05-02,Australia,"Dubai, UAE",Spring,55–64,Female,International,2,1,Transit,421,716,Resort
+TVA-00322,2023-01-28,United Kingdom,"Vienna, Austria",Winter,45–54,Female,International,5,2,Business / MICE,151,1148,Hotel (3-star)
+TVA-00323,2022-01-27,United States,"Vienna, Austria",Winter,25–34,Male,International,3,7,Leisure / Holiday,158,2654,Hotel (3-star)
+TVA-00324,2024-12-10,Turkey,"Cancún, Mexico",Winter,55–64,Female,International,2,3,Leisure / Holiday,207,1056,Hotel (4-star)
+TVA-00325,2024-06-06,Turkey,"Istanbul, Turkey",Summer,35–44,Female,Domestic,1,86,Education,51,4386,Friends / Family Home
+TVA-00326,2024-12-27,India,"New York, USA",Winter,35–44,Male,International,3,6,Leisure / Holiday,269,3874,Hotel (3-star)
+TVA-00327,2024-12-02,Australia,"Bali, Indonesia",Winter,18–24,Male,International,1,18,Adventure,148,2664,Hotel (4-star)
+TVA-00328,2024-06-22,"Greater London, UK","London, UK",Summer,25–34,Male,Domestic,2,6,Adventure,334,3407,Hotel (4-star)
+TVA-00329,2024-10-22,Argentina,"Bali, Indonesia",Autumn,45–54,Female,International,2,14,Leisure / Holiday,113,2689,Hotel (4-star)
+TVA-00330,2024-10-01,France,"Barcelona, Spain",Autumn,45–54,Female,International,1,6,Leisure / Holiday,188,1128,Hotel (3-star)
+TVA-00331,2023-04-25,Germany,"Rome, Italy",Spring,18–24,Female,International,2,13,Leisure / Holiday,58,1282,Friends / Family Home
+TVA-00332,2023-04-11,"Kantō, Japan","Tokyo, Japan",Spring,18–24,Female,Domestic,4,2,Transit,485,3007,Hotel (5-star)
+TVA-00333,2024-11-16,Brazil,"Cape Town, South Africa",Autumn,45–54,Female,International,2,17,Visiting Friends & Family,168,4855,Hotel (4-star)
+TVA-00334,2022-02-09,Canada,"Rome, Italy",Winter,45–54,Male,International,2,10,Leisure / Holiday,163,2771,Hotel (3-star)
+TVA-00335,2024-08-18,Mexico,"Cancún, Mexico",Summer,35–44,Female,Domestic,2,6,Leisure / Holiday,68,694,Camping / Glamping
+TVA-00336,2022-12-18,Central Thailand,"Bangkok, Thailand",Winter,65+,Male,Domestic,2,4,Business / MICE,154,1047,Hotel (4-star)
+TVA-00337,2024-04-27,"Istanbul Province, Turkey","Bali, Indonesia",Spring,25–34,Male,Domestic,2,4,Leisure / Holiday,37,252,Friends / Family Home
+TVA-00338,2024-02-27,Japan,"Dubai, UAE",Winter,35–44,Male,International,2,3,Business / MICE,375,1913,Hotel (4-star)
+TVA-00339,2024-03-22,"Noord-Holland, NL","Prague, Czechia",Spring,25–34,Male,Domestic,1,2,Business / MICE,169,338,Hotel (5-star)
+TVA-00340,2022-02-12,"New York State, USA","New York, USA",Winter,35–44,Female,Domestic,2,5,Visiting Friends & Family,346,2941,Hotel (4-star)
+TVA-00341,2024-06-27,"Tuscany, Italy","Rome, Italy",Summer,45–54,Non-binary,Domestic,5,4,Leisure / Holiday,201,3055,Hotel (3-star)
+TVA-00342,2023-07-26,Japan,"Prague, Czechia",Summer,55–64,Female,International,2,12,Leisure / Holiday,91,1856,Hotel (3-star)
+TVA-00343,2024-03-01,Germany,"Istanbul, Turkey",Spring,65+,Male,International,2,7,Leisure / Holiday,187,2225,Hotel (4-star)
+TVA-00344,2024-11-05,Saudi Arabia,"Tokyo, Japan",Autumn,35–44,Male,International,1,13,Leisure / Holiday,521,6773,Hotel (5-star)
+TVA-00345,2024-12-27,India,"Prague, Czechia",Winter,45–54,Non-binary,International,1,13,Leisure / Holiday,176,2288,Resort
+TVA-00346,2024-02-14,France,"Tokyo, Japan",Winter,25–34,Female,International,3,14,Leisure / Holiday,327,10987,Hotel (4-star)
+TVA-00347,2023-04-08,Japan,"Tokyo, Japan",Spring,25–34,Male,Domestic,2,12,Leisure / Holiday,235,4794,Hotel (3-star)
+TVA-00348,2022-06-27,Central Thailand,"Bangkok, Thailand",Summer,25–34,Female,Domestic,2,6,Leisure / Holiday,94,959,Airbnb / Vacation Rental
+TVA-00349,2024-01-16,Russia,Singapore,Winter,35–44,Male,International,4,21,Visiting Friends & Family,263,17121,Hotel (3-star)
+TVA-00350,2023-08-22,South Korea,"Vienna, Austria",Summer,25–34,Non-binary,International,4,6,Business / MICE,157,2920,Airbnb / Vacation Rental
+TVA-00351,2024-02-21,Turkey,"Tokyo, Japan",Winter,65+,Male,International,1,1,Transit,232,232,Hotel (3-star)
+TVA-00352,2024-10-24,Sweden,"Rome, Italy",Autumn,18–24,Male,International,2,11,Adventure,209,3908,Hotel (4-star)
+TVA-00353,2023-08-06,India,"Barcelona, Spain",Summer,18–24,Male,International,1,4,Visiting Friends & Family,242,968,Hotel (4-star)
+TVA-00354,2024-01-27,Spain,"Bangkok, Thailand",Winter,45–54,Female,International,2,7,Business / MICE,125,1488,Hotel (4-star)
+TVA-00355,2024-05-06,"Catalonia, Spain","Cairo, Egypt",Spring,65+,Male,Domestic,1,5,Leisure / Holiday,128,640,Hotel (4-star)
+TVA-00356,2024-04-22,China,"Barcelona, Spain",Spring,45–54,Male,International,4,99,Education,157,48183,Hotel (3-star)
+TVA-00357,2024-12-24,Brazil,"Istanbul, Turkey",Winter,35–44,Male,International,4,139,Education,116,49984,Hotel (3-star)
+TVA-00358,2024-01-18,Spain,"Barcelona, Spain",Winter,45–54,Female,International,1,3,Leisure / Holiday,294,882,Resort
+TVA-00359,2023-01-17,Germany,"Paris, France",Winter,35–44,Female,International,5,7,Business / MICE,57,1516,Friends / Family Home
+TVA-00360,2022-05-05,"Dubai Emirate, UAE","Dubai, UAE",Spring,55–64,Male,Domestic,3,10,Leisure / Holiday,486,11664,Hotel (5-star)
+TVA-00361,2024-06-18,Turkey,"Paris, France",Summer,25–34,Male,International,2,10,Leisure / Holiday,187,3179,Airbnb / Vacation Rental
+TVA-00362,2024-08-08,Russia,"Prague, Czechia",Summer,25–34,Male,International,1,4,Business / MICE,109,436,Hotel (3-star)
+TVA-00363,2023-06-23,Argentina,"Cairo, Egypt",Summer,18–24,Female,International,2,3,Business / MICE,119,607,Hotel (4-star)
+TVA-00364,2024-07-11,Japan,"Cancún, Mexico",Summer,25–34,Female,International,2,3,Business / MICE,51,260,Friends / Family Home
+TVA-00365,2024-01-14,Central Thailand,"Bangkok, Thailand",Winter,55–64,Male,Domestic,4,13,Health & Wellness,122,4917,Hotel (4-star)
+TVA-00366,2024-08-15,Turkey,"Istanbul, Turkey",Summer,35–44,Male,Domestic,5,4,Leisure / Holiday,124,1885,Airbnb / Vacation Rental
+TVA-00367,2023-08-06,India,"Paris, France",Summer,25–34,Male,International,4,11,Leisure / Holiday,188,6411,Hotel (3-star)
+TVA-00368,2024-11-13,Mexico,"Mumbai, India",Autumn,45–54,Male,International,3,12,Adventure,67,1930,Hostel
+TVA-00369,2022-08-14,"Tuscany, Italy","Prague, Czechia",Summer,55–64,Female,Domestic,2,6,Visiting Friends & Family,129,1316,Hotel (4-star)
+TVA-00370,2024-05-08,"Île-de-France, France","Paris, France",Spring,55–64,Female,Domestic,2,4,Leisure / Holiday,256,1741,Hotel (4-star)
+TVA-00371,2024-09-23,Argentina,"Mumbai, India",Autumn,35–44,Male,International,2,3,Business / MICE,88,449,Hotel (3-star)
+TVA-00372,2024-07-27,Mexico,"Cancún, Mexico",Summer,35–44,Male,Domestic,3,14,Leisure / Holiday,89,2990,Hostel
+TVA-00373,2023-09-06,Mexico,Singapore,Autumn,55–64,Male,International,4,9,Adventure,254,7087,Hotel (3-star)
+TVA-00374,2022-01-01,"Greater London, UK","Bali, Indonesia",Winter,25–34,Male,Domestic,1,8,Leisure / Holiday,84,672,Hotel (3-star)
+TVA-00375,2022-01-03,South Korea,"Dubai, UAE",Winter,35–44,Female,International,5,14,Leisure / Holiday,265,14098,Airbnb / Vacation Rental
+TVA-00376,2022-06-11,"Kantō, Japan","Vienna, Austria",Summer,35–44,Male,Domestic,5,4,Leisure / Holiday,62,942,Friends / Family Home
+TVA-00377,2024-11-25,"Central Region, SG","Marrakech, Morocco",Autumn,35–44,Non-binary,Domestic,2,17,Adventure,138,3988,Resort
+TVA-00378,2024-06-19,Japan,"Mumbai, India",Summer,45–54,Male,International,2,4,Leisure / Holiday,167,1136,Resort
+TVA-00379,2023-06-17,"Catalonia, Spain","Barcelona, Spain",Summer,45–54,Female,Domestic,1,5,Leisure / Holiday,327,1635,Resort
+TVA-00380,2024-10-10,"Noord-Holland, NL","Vienna, Austria",Autumn,35–44,Female,Domestic,1,15,Adventure,271,4065,Resort
+TVA-00381,2023-07-19,Italy,"New York, USA",Summer,35–44,Female,International,1,12,Leisure / Holiday,103,1236,Friends / Family Home
+TVA-00382,2024-06-21,Turkey,"Amsterdam, Netherlands",Summer,55–64,Male,International,3,3,Leisure / Holiday,278,2002,Hotel (4-star)
+TVA-00383,2022-04-21,France,"Paris, France",Spring,55–64,Female,Domestic,4,8,Leisure / Holiday,344,8531,Hotel (5-star)
+TVA-00384,2023-08-09,United Kingdom,"Sydney, Australia",Summer,25–34,Male,International,1,13,Leisure / Holiday,117,1521,Hostel
+TVA-00385,2024-06-01,"Istanbul Province, Turkey","Istanbul, Turkey",Summer,25–34,Female,Domestic,2,11,Leisure / Holiday,151,2824,Hotel (4-star)
+TVA-00386,2022-02-27,Sweden,"Marrakech, Morocco",Winter,45–54,Female,International,2,4,Leisure / Holiday,168,1142,Hotel (5-star)
+TVA-00387,2024-07-16,Mexico,"Barcelona, Spain",Summer,35–44,Female,International,5,7,Leisure / Holiday,237,6304,Hotel (4-star)
+TVA-00388,2024-08-02,"Tuscany, Italy","Prague, Czechia",Summer,35–44,Male,Domestic,3,13,Leisure / Holiday,55,1716,Camping / Glamping
+TVA-00389,2024-08-23,Netherlands,"Tokyo, Japan",Summer,25–34,Female,International,1,5,Leisure / Holiday,231,1155,Hotel (3-star)
+TVA-00390,2024-09-14,"Tuscany, Italy","Marrakech, Morocco",Autumn,45–54,Male,Domestic,1,3,Leisure / Holiday,82,246,Hotel (3-star)
+TVA-00391,2023-11-06,Russia,"Amsterdam, Netherlands",Autumn,65+,Male,International,2,14,Leisure / Holiday,59,1404,Friends / Family Home
+TVA-00392,2024-04-01,India,"Mumbai, India",Spring,25–34,Female,International,2,2,Transit,84,286,Airbnb / Vacation Rental
+TVA-00393,2022-04-24,United Kingdom,"Cancún, Mexico",Spring,25–34,Male,International,3,4,Leisure / Holiday,167,1603,Hotel (4-star)
+TVA-00394,2024-05-23,"Île-de-France, France","Paris, France",Spring,25–34,Female,Domestic,2,8,Leisure / Holiday,94,1278,Hostel
+TVA-00395,2024-11-08,Australia,"Sydney, Australia",Autumn,25–34,Female,Domestic,6,12,Leisure / Holiday,330,17820,Hotel (4-star)
+TVA-00396,2024-03-01,Spain,Singapore,Spring,35–44,Male,International,1,5,Leisure / Holiday,191,955,Airbnb / Vacation Rental
+TVA-00397,2024-04-26,"Kantō, Japan","Cairo, Egypt",Spring,25–34,Female,Domestic,1,5,Business / MICE,109,545,Hotel (4-star)
+TVA-00398,2023-04-18,Sweden,"Mumbai, India",Spring,18–24,Female,International,2,3,Business / MICE,97,495,Airbnb / Vacation Rental
+TVA-00399,2023-02-02,"Dubai Emirate, UAE","Dubai, UAE",Winter,25–34,Female,Domestic,2,4,Leisure / Holiday,337,2292,Hotel (4-star)
+TVA-00400,2023-05-23,China,"Cairo, Egypt",Spring,45–54,Female,International,6,2,Business / MICE,110,990,Hotel (4-star)
+TVA-00401,2023-07-03,"Kantō, Japan","Marrakech, Morocco",Summer,45–54,Female,Domestic,2,6,Leisure / Holiday,50,510,Hostel
+TVA-00402,2022-09-09,"Istanbul Province, Turkey","Istanbul, Turkey",Autumn,35–44,Male,Domestic,1,8,Leisure / Holiday,135,1080,Hotel (3-star)
+TVA-00403,2024-11-05,Sweden,"Tokyo, Japan",Autumn,45–54,Female,International,1,11,Visiting Friends & Family,202,2222,Hotel (3-star)
+TVA-00404,2024-04-28,Netherlands,"Dubai, UAE",Spring,65+,Male,International,5,7,Health & Wellness,449,11943,Hotel (4-star)
+TVA-00405,2024-02-14,France,"Barcelona, Spain",Winter,25–34,Male,International,2,1,Transit,88,150,Hostel
+TVA-00406,2024-06-28,"Kantō, Japan","Cape Town, South Africa",Summer,35–44,Male,Domestic,1,4,Leisure / Holiday,92,368,Airbnb / Vacation Rental
+TVA-00407,2024-06-06,United Kingdom,"Barcelona, Spain",Summer,35–44,Female,International,1,122,Education,69,8418,Friends / Family Home
+TVA-00408,2024-12-14,"New York State, USA","New York, USA",Winter,55–64,Female,Domestic,5,21,Adventure,469,37426,Hotel (4-star)
+TVA-00409,2023-07-09,France,"Amsterdam, Netherlands",Summer,25–34,Female,International,1,13,Leisure / Holiday,120,1560,Hostel
+TVA-00410,2024-01-18,Sweden,"Marrakech, Morocco",Winter,65+,Female,International,2,13,Leisure / Holiday,138,3050,Resort
+TVA-00411,2022-03-05,"New York State, USA","Cairo, Egypt",Spring,25–34,Male,Domestic,1,3,Business / MICE,161,483,Resort
+TVA-00412,2024-07-07,Japan,"Tokyo, Japan",Summer,65+,Female,Domestic,2,86,Education,69,10088,Friends / Family Home
+TVA-00413,2023-09-08,South Korea,"Tokyo, Japan",Autumn,45–54,Male,International,2,20,Adventure,375,12750,Hotel (5-star)
+TVA-00414,2024-12-20,Mexico,"Cairo, Egypt",Winter,45–54,Female,International,1,14,Leisure / Holiday,153,2142,Hotel (5-star)
+TVA-00415,2024-05-08,Turkey,"Mumbai, India",Spring,25–34,Male,International,3,11,Leisure / Holiday,171,4514,Resort
+TVA-00416,2023-11-12,"Île-de-France, France","Paris, France",Autumn,25–34,Female,Domestic,2,11,Health & Wellness,57,1066,Friends / Family Home
+TVA-00417,2024-09-12,Brazil,"Amsterdam, Netherlands",Autumn,45–54,Male,International,1,13,Health & Wellness,254,3302,Hotel (4-star)
+TVA-00418,2023-07-06,Spain,"Sydney, Australia",Summer,55–64,Male,International,1,17,Visiting Friends & Family,290,4930,Hotel (4-star)
+TVA-00419,2024-11-28,"Istanbul Province, Turkey","Istanbul, Turkey",Autumn,35–44,Male,Domestic,2,10,Leisure / Holiday,184,3128,Hotel (4-star)
+TVA-00420,2023-11-21,United Kingdom,"Sydney, Australia",Autumn,18–24,Male,International,3,7,Leisure / Holiday,280,4704,Hotel (4-star)
+TVA-00421,2022-12-10,Japan,"Tokyo, Japan",Winter,35–44,Male,Domestic,6,7,Visiting Friends & Family,273,8600,Hotel (4-star)
+TVA-00422,2024-05-22,India,"Amsterdam, Netherlands",Spring,25–34,Non-binary,International,2,4,Visiting Friends & Family,209,1421,Hotel (3-star)
+TVA-00423,2023-01-28,Germany,"Cancún, Mexico",Winter,25–34,Male,International,2,5,Business / MICE,219,1862,Resort
+TVA-00424,2024-12-06,Australia,"Prague, Czechia",Winter,25–34,Male,International,1,6,Leisure / Holiday,101,606,Airbnb / Vacation Rental
+TVA-00425,2023-11-02,Italy,"Rome, Italy",Autumn,25–34,Male,Domestic,5,17,Visiting Friends & Family,171,11047,Airbnb / Vacation Rental
+TVA-00426,2022-06-21,Japan,"Dubai, UAE",Summer,25–34,Female,International,3,7,Leisure / Holiday,508,8534,Hotel (5-star)
+TVA-00427,2024-11-14,"New South Wales, AU","Vienna, Austria",Autumn,25–34,Female,Domestic,2,96,Education,98,15994,Hostel
+TVA-00428,2024-07-02,Saudi Arabia,"Tokyo, Japan",Summer,55–64,Female,International,3,7,Health & Wellness,212,3562,Airbnb / Vacation Rental
+TVA-00429,2024-11-01,"New South Wales, AU","Cairo, Egypt",Autumn,25–34,Male,Domestic,4,9,Health & Wellness,134,3739,Hotel (5-star)
+TVA-00430,2024-05-11,India,"Amsterdam, Netherlands",Spring,55–64,Male,International,4,2,Business / MICE,103,639,Hostel
+TVA-00431,2024-10-10,France,"Dubai, UAE",Autumn,18–24,Male,International,5,2,Business / MICE,455,3458,Hotel (5-star)
+TVA-00432,2024-12-15,Canada,"Tokyo, Japan",Winter,18–24,Female,International,1,21,Adventure,128,2688,Hostel
+TVA-00433,2022-10-02,"Greater London, UK","London, UK",Autumn,45–54,Male,Domestic,2,10,Leisure / Holiday,386,6562,Hotel (4-star)
+TVA-00434,2022-05-14,China,"Cairo, Egypt",Spring,35–44,Female,International,2,41,Education,124,8643,Hotel (5-star)
+TVA-00435,2023-01-24,France,"Rome, Italy",Winter,55–64,Female,International,1,14,Leisure / Holiday,324,4536,Hotel (5-star)
+TVA-00436,2022-01-11,Argentina,Singapore,Winter,45–54,Female,International,4,73,Education,241,54538,Hotel (3-star)
+TVA-00437,2022-05-19,Italy,"Bangkok, Thailand",Spring,18–24,Female,International,2,19,Adventure,132,4264,Hotel (4-star)
+TVA-00438,2023-03-26,Italy,"Barcelona, Spain",Spring,18–24,Female,International,3,3,Business / MICE,129,929,Airbnb / Vacation Rental
+TVA-00439,2023-05-03,South Korea,"Sydney, Australia",Spring,25–34,Male,International,3,6,Business / MICE,277,3989,Hotel (4-star)
+TVA-00440,2022-05-12,Mexico,"Cancún, Mexico",Spring,35–44,Female,Domestic,3,3,Business / MICE,168,1210,Hotel (4-star)
+TVA-00441,2022-03-19,India,"Mumbai, India",Spring,25–34,Male,Domestic,1,9,Leisure / Holiday,189,1701,Resort
+TVA-00442,2023-04-21,India,"Mumbai, India",Spring,35–44,Non-binary,Domestic,2,72,Education,92,11261,Hotel (3-star)
+TVA-00443,2024-05-08,"Kantō, Japan","Tokyo, Japan",Spring,45–54,Male,Domestic,4,7,Visiting Friends & Family,119,2582,Camping / Glamping
+TVA-00444,2022-06-04,Argentina,"London, UK",Summer,55–64,Female,International,4,9,Visiting Friends & Family,209,5831,Airbnb / Vacation Rental
+TVA-00445,2024-01-16,United States,"Amsterdam, Netherlands",Winter,25–34,Male,International,4,7,Business / MICE,65,1410,Friends / Family Home
+TVA-00446,2024-11-20,"Noord-Holland, NL",Singapore,Autumn,18–24,Female,Domestic,2,10,Leisure / Holiday,117,1989,Camping / Glamping
+TVA-00447,2024-03-20,France,"Paris, France",Spring,55–64,Female,Domestic,3,52,Education,315,39312,Resort
+TVA-00448,2024-12-28,Mexico,Singapore,Winter,18–24,Male,International,2,3,Business / MICE,394,2009,Hotel (4-star)
+TVA-00449,2024-06-05,Canada,"Sydney, Australia",Summer,25–34,Male,International,6,12,Leisure / Holiday,246,13284,Hotel (3-star)
+TVA-00450,2024-03-03,Italy,"Vienna, Austria",Spring,25–34,Male,International,5,5,Leisure / Holiday,87,1653,Camping / Glamping
+TVA-00451,2024-05-02,Russia,"Tokyo, Japan",Spring,55–64,Male,International,1,3,Business / MICE,358,1074,Hotel (4-star)
+TVA-00452,2024-05-05,Turkey,"Dubai, UAE",Spring,45–54,Male,International,2,10,Leisure / Holiday,269,4573,Airbnb / Vacation Rental
+TVA-00453,2024-07-09,"Kantō, Japan","Cairo, Egypt",Summer,25–34,Male,Domestic,2,19,Adventure,37,1195,Camping / Glamping
+TVA-00454,2022-10-06,Mexico,"Tokyo, Japan",Autumn,25–34,Female,International,2,6,Adventure,246,2509,Airbnb / Vacation Rental
+TVA-00455,2024-09-20,South Korea,"Rome, Italy",Autumn,45–54,Female,International,2,12,Visiting Friends & Family,248,5059,Resort
+TVA-00456,2023-12-27,"Île-de-France, France","Paris, France",Winter,18–24,Female,Domestic,1,4,Business / MICE,413,1652,Hotel (5-star)
+TVA-00457,2022-11-26,"Istanbul Province, Turkey","Cairo, Egypt",Autumn,25–34,Male,Domestic,3,4,Business / MICE,126,1210,Hotel (4-star)
+TVA-00458,2024-05-17,India,"Sydney, Australia",Spring,45–54,Female,International,2,20,Visiting Friends & Family,243,8262,Hotel (3-star)
+TVA-00459,2024-03-07,Japan,"London, UK",Spring,55–64,Female,International,3,4,Business / MICE,280,2688,Airbnb / Vacation Rental
+TVA-00460,2023-09-17,Mexico,"Cancún, Mexico",Autumn,35–44,Male,Domestic,1,6,Business / MICE,94,564,Hostel
+TVA-00461,2023-09-02,China,"Cairo, Egypt",Autumn,55–64,Female,International,3,13,Visiting Friends & Family,149,4649,Hotel (5-star)
+TVA-00462,2024-04-10,Germany,"Amsterdam, Netherlands",Spring,25–34,Male,International,1,4,Business / MICE,104,416,Camping / Glamping
+TVA-00463,2024-08-25,Mexico,"Cancún, Mexico",Summer,45–54,Female,Domestic,1,8,Adventure,172,1376,Hotel (3-star)
+TVA-00464,2024-09-20,United Kingdom,"Amsterdam, Netherlands",Autumn,45–54,Male,International,5,6,Business / MICE,76,1733,Friends / Family Home
+TVA-00465,2024-12-05,Central Thailand,"Bangkok, Thailand",Winter,25–34,Female,Domestic,2,5,Business / MICE,208,1768,Resort
+TVA-00466,2022-07-07,China,"Cairo, Egypt",Summer,35–44,Female,International,2,3,Business / MICE,89,454,Hotel (4-star)
+TVA-00467,2024-11-08,Germany,"Bali, Indonesia",Autumn,35–44,Male,International,1,13,Leisure / Holiday,103,1339,Hotel (3-star)
+TVA-00468,2023-04-14,Sweden,"Marrakech, Morocco",Spring,18–24,Female,International,3,3,Leisure / Holiday,170,1224,Resort
+TVA-00469,2024-02-15,Turkey,"Vienna, Austria",Winter,65+,Female,International,4,9,Leisure / Holiday,236,6584,Hotel (4-star)
+TVA-00470,2024-02-26,Argentina,"Bangkok, Thailand",Winter,35–44,Male,International,4,12,Leisure / Holiday,139,5171,Hotel (4-star)
+TVA-00471,2024-09-04,France,"Bali, Indonesia",Autumn,45–54,Male,International,4,10,Leisure / Holiday,96,2976,Airbnb / Vacation Rental
+TVA-00472,2022-04-28,Russia,"Dubai, UAE",Spring,18–24,Male,International,5,13,Leisure / Holiday,216,10670,Airbnb / Vacation Rental
+TVA-00473,2024-01-23,Saudi Arabia,"Mumbai, India",Winter,35–44,Female,International,4,148,Education,123,56432,Hotel (3-star)
+TVA-00474,2024-11-22,Turkey,"Rome, Italy",Autumn,55–64,Male,International,4,6,Adventure,165,3069,Hotel (3-star)
+TVA-00475,2024-03-18,"Greater London, UK","London, UK",Spring,25–34,Male,Domestic,4,7,Visiting Friends & Family,279,6054,Airbnb / Vacation Rental
+TVA-00476,2024-03-27,United States,"Cairo, Egypt",Spring,25–34,Female,International,1,21,Visiting Friends & Family,114,2394,Hotel (4-star)
+TVA-00477,2023-09-18,Saudi Arabia,"Dubai, UAE",Autumn,25–34,Female,International,2,4,Business / MICE,516,3509,Hotel (5-star)
+TVA-00478,2023-01-11,Spain,"Barcelona, Spain",Winter,25–34,Male,Domestic,2,3,Leisure / Holiday,57,291,Friends / Family Home
+TVA-00479,2024-06-03,Netherlands,"Bangkok, Thailand",Summer,55–64,Male,International,4,12,Leisure / Holiday,134,4985,Hotel (3-star)
+TVA-00480,2024-03-14,"Noord-Holland, NL","Prague, Czechia",Spring,65+,Male,Domestic,1,3,Leisure / Holiday,109,327,Airbnb / Vacation Rental
+TVA-00481,2024-08-09,South Korea,"Istanbul, Turkey",Summer,45–54,Male,International,5,12,Visiting Friends & Family,107,4879,Airbnb / Vacation Rental
+TVA-00482,2023-10-07,Saudi Arabia,"Marrakech, Morocco",Autumn,65+,Male,International,1,10,Leisure / Holiday,28,280,Friends / Family Home
+TVA-00483,2024-11-08,Brazil,"Prague, Czechia",Autumn,45–54,Female,International,3,13,Leisure / Holiday,198,6178,Hotel (5-star)
+TVA-00484,2022-06-28,"Tuscany, Italy","Rome, Italy",Summer,55–64,Male,Domestic,2,14,Leisure / Holiday,203,4831,Hotel (3-star)
+TVA-00485,2022-05-06,China,"New York, USA",Spring,35–44,Male,International,1,21,Visiting Friends & Family,360,7560,Hotel (3-star)
+TVA-00486,2024-02-14,United States,"Tokyo, Japan",Winter,18–24,Female,International,4,18,Adventure,466,26003,Hotel (5-star)
+TVA-00487,2023-07-03,Russia,"Dubai, UAE",Summer,55–64,Male,International,1,13,Leisure / Holiday,117,1521,Friends / Family Home
+TVA-00488,2024-11-27,Saudi Arabia,"Cape Town, South Africa",Autumn,25–34,Female,International,2,11,Visiting Friends & Family,114,2132,Airbnb / Vacation Rental
+TVA-00489,2024-02-06,Russia,"Bangkok, Thailand",Winter,45–54,Female,International,1,11,Leisure / Holiday,76,836,Hostel
+TVA-00490,2023-11-04,Netherlands,"Amsterdam, Netherlands",Autumn,25–34,Male,Domestic,3,3,Business / MICE,188,1354,Airbnb / Vacation Rental
+TVA-00491,2024-07-18,Central Thailand,"Bangkok, Thailand",Summer,18–24,Female,Domestic,6,21,Adventure,124,11718,Hotel (4-star)
+TVA-00492,2024-08-08,Sweden,"London, UK",Summer,25–34,Male,International,1,3,Business / MICE,409,1227,Hotel (4-star)
+TVA-00493,2024-12-22,"Dubai Emirate, UAE","Dubai, UAE",Winter,55–64,Female,Domestic,2,16,Adventure,334,9085,Hotel (3-star)
+TVA-00494,2024-10-08,"New York State, USA","Vienna, Austria",Autumn,25–34,Male,Domestic,4,7,Leisure / Holiday,99,2148,Hostel
+TVA-00495,2024-06-18,United States,Singapore,Summer,18–24,Female,International,1,4,Visiting Friends & Family,239,956,Airbnb / Vacation Rental
+TVA-00496,2024-06-05,Canada,Singapore,Summer,45–54,Female,International,6,5,Leisure / Holiday,129,2903,Hostel
+TVA-00497,2024-08-22,France,"Paris, France",Summer,25–34,Non-binary,International,3,21,Adventure,159,8014,Airbnb / Vacation Rental
+TVA-00498,2022-06-05,Australia,"Prague, Czechia",Summer,45–54,Female,International,2,14,Leisure / Holiday,89,2118,Hotel (3-star)
+TVA-00499,2024-06-06,"Noord-Holland, NL","Marrakech, Morocco",Summer,45–54,Male,Domestic,3,49,Education,142,16699,Hotel (5-star)
+TVA-00500,2024-09-14,India,"Mumbai, India",Autumn,25–34,Female,Domestic,2,13,Visiting Friends & Family,115,2542,Hotel (4-star)
+TVA-00501,2024-02-02,United Kingdom,Singapore,Winter,25–34,Male,International,5,116,Education,307,135326,Hotel (3-star)
+TVA-00502,2024-09-14,United Kingdom,"New York, USA",Autumn,35–44,Female,International,6,7,Leisure / Holiday,576,18144,Hotel (5-star)
+TVA-00503,2024-02-15,Spain,"Barcelona, Spain",Winter,55–64,Male,International,1,13,Leisure / Holiday,63,819,Friends / Family Home
+TVA-00504,2024-12-01,Saudi Arabia,"Vienna, Austria",Winter,25–34,Male,International,4,8,Leisure / Holiday,78,1934,Camping / Glamping
+TVA-00505,2024-06-22,Central Thailand,"Bangkok, Thailand",Summer,18–24,Male,Domestic,3,9,Leisure / Holiday,199,4298,Resort
+TVA-00506,2023-08-15,Turkey,"Marrakech, Morocco",Summer,65+,Female,International,2,5,Leisure / Holiday,106,901,Hotel (3-star)
+TVA-00507,2023-01-13,Germany,"Amsterdam, Netherlands",Winter,35–44,Female,International,2,7,Business / MICE,128,1523,Hostel
+TVA-00508,2023-01-24,Germany,"Vienna, Austria",Winter,55–64,Female,International,6,7,Leisure / Holiday,254,8001,Hotel (4-star)
+TVA-00509,2024-06-20,Turkey,"Cape Town, South Africa",Summer,35–44,Male,International,1,6,Adventure,162,972,Hotel (4-star)
+TVA-00510,2024-03-22,France,"London, UK",Spring,18–24,Non-binary,International,3,20,Visiting Friends & Family,433,20784,Resort
+TVA-00511,2022-06-11,Argentina,"Tokyo, Japan",Summer,35–44,Male,International,1,13,Leisure / Holiday,249,3237,Airbnb / Vacation Rental
+TVA-00512,2023-07-08,Germany,"Marrakech, Morocco",Summer,18–24,Male,International,3,5,Business / MICE,100,1200,Hotel (3-star)
+TVA-00513,2024-02-02,Netherlands,"Cairo, Egypt",Winter,45–54,Non-binary,International,4,7,Leisure / Holiday,152,3298,Resort
+TVA-00514,2024-01-19,Saudi Arabia,Singapore,Winter,55–64,Female,International,2,8,Leisure / Holiday,480,6528,Hotel (5-star)
+TVA-00515,2024-12-19,Netherlands,"Bali, Indonesia",Winter,25–34,Female,International,5,5,Leisure / Holiday,49,931,Hostel
+TVA-00516,2022-12-15,Turkey,"Cancún, Mexico",Winter,25–34,Male,International,2,16,Adventure,262,7126,Resort
+TVA-00517,2024-02-15,France,"Sydney, Australia",Winter,35–44,Male,International,2,8,Leisure / Holiday,260,3536,Hotel (4-star)
+TVA-00518,2023-02-14,Spain,"Paris, France",Winter,18–24,Female,International,2,10,Leisure / Holiday,275,4675,Hotel (4-star)
+TVA-00519,2022-04-13,Netherlands,"Amsterdam, Netherlands",Spring,55–64,Female,Domestic,3,19,Adventure,266,12130,Hotel (4-star)
+TVA-00520,2022-03-09,United Kingdom,"Rome, Italy",Spring,35–44,Non-binary,International,2,11,Visiting Friends & Family,157,2936,Hotel (3-star)
+TVA-00521,2022-08-13,United Kingdom,"New York, USA",Summer,45–54,Female,International,2,7,Visiting Friends & Family,433,5153,Hotel (4-star)
+TVA-00522,2024-05-12,Central Thailand,"Bangkok, Thailand",Spring,35–44,Female,Domestic,2,13,Leisure / Holiday,45,995,Friends / Family Home
+TVA-00523,2024-09-25,Mexico,"Sydney, Australia",Autumn,35–44,Female,International,3,17,Adventure,268,10934,Hotel (4-star)
+TVA-00524,2023-03-03,Spain,"Mumbai, India",Spring,45–54,Non-binary,International,2,14,Visiting Friends & Family,84,1999,Hotel (3-star)
+TVA-00525,2024-08-16,"Dubai Emirate, UAE","Bali, Indonesia",Summer,18–24,Male,Domestic,2,13,Leisure / Holiday,157,3470,Hotel (5-star)
+TVA-00526,2024-06-25,"New York State, USA","New York, USA",Summer,18–24,Female,Domestic,1,4,Leisure / Holiday,176,704,Hostel
+TVA-00527,2024-06-25,Turkey,"Marrakech, Morocco",Summer,45–54,Female,International,2,5,Adventure,95,808,Hotel (4-star)
+TVA-00528,2022-07-02,Germany,"Cape Town, South Africa",Summer,55–64,Female,International,2,8,Leisure / Holiday,183,2489,Hotel (5-star)
+TVA-00529,2023-05-24,Australia,"Sydney, Australia",Spring,35–44,Female,Domestic,1,7,Health & Wellness,191,1337,Hotel (3-star)
+TVA-00530,2022-02-11,Russia,"Barcelona, Spain",Winter,65+,Female,International,3,6,Leisure / Holiday,85,1224,Hostel
+TVA-00531,2023-12-18,Italy,"Rome, Italy",Winter,25–34,Female,International,3,95,Education,140,31920,Hotel (3-star)
+TVA-00532,2023-06-27,Spain,"Bali, Indonesia",Summer,35–44,Non-binary,International,1,12,Leisure / Holiday,48,576,Camping / Glamping
+TVA-00533,2023-08-02,Saudi Arabia,"Prague, Czechia",Summer,45–54,Female,International,1,2,Business / MICE,120,240,Hotel (3-star)
+TVA-00534,2024-04-26,China,"Tokyo, Japan",Spring,65+,Female,International,3,160,Education,97,37248,Friends / Family Home
+TVA-00535,2024-11-11,Netherlands,"Amsterdam, Netherlands",Autumn,45–54,Male,Domestic,1,8,Leisure / Holiday,74,592,Camping / Glamping
+TVA-00536,2023-09-18,Turkey,"Marrakech, Morocco",Autumn,35–44,Male,International,1,3,Leisure / Holiday,105,315,Hotel (3-star)
+TVA-00537,2024-05-02,Japan,"Amsterdam, Netherlands",Spring,25–34,Male,International,6,11,Leisure / Holiday,345,17078,Resort
+TVA-00538,2024-11-26,Spain,"Barcelona, Spain",Autumn,25–34,Female,Domestic,1,12,Leisure / Holiday,153,1836,Airbnb / Vacation Rental
+TVA-00539,2023-03-03,"Dubai Emirate, UAE","Prague, Czechia",Spring,25–34,Male,Domestic,5,14,Health & Wellness,97,5160,Airbnb / Vacation Rental
+TVA-00540,2023-05-03,Argentina,"Tokyo, Japan",Spring,45–54,Male,International,2,5,Business / MICE,216,1836,Hotel (3-star)
+TVA-00541,2024-10-16,"Dubai Emirate, UAE","Dubai, UAE",Autumn,18–24,Male,Domestic,5,4,Leisure / Holiday,109,1657,Camping / Glamping
+TVA-00542,2024-08-22,Saudi Arabia,"Cairo, Egypt",Summer,25–34,Male,International,3,12,Leisure / Holiday,144,4147,Hotel (5-star)
+TVA-00543,2023-12-10,"Istanbul Province, Turkey","Cairo, Egypt",Winter,35–44,Female,Domestic,1,6,Leisure / Holiday,59,354,Airbnb / Vacation Rental
+TVA-00544,2023-10-22,Japan,"Cairo, Egypt",Autumn,45–54,Non-binary,International,4,18,Adventure,56,3125,Hostel
+TVA-00545,2022-10-23,"Istanbul Province, Turkey","Cairo, Egypt",Autumn,18–24,Female,Domestic,1,6,Adventure,158,948,Hotel (5-star)
+TVA-00546,2024-05-07,"Île-de-France, France","Paris, France",Spring,35–44,Female,Domestic,3,5,Leisure / Holiday,358,4296,Hotel (5-star)
+TVA-00547,2022-12-13,Spain,"Barcelona, Spain",Winter,35–44,Female,Domestic,4,7,Health & Wellness,212,4600,Hotel (4-star)
+TVA-00548,2023-06-01,"New York State, USA","New York, USA",Summer,65+,Female,Domestic,1,3,Leisure / Holiday,173,519,Hostel
+TVA-00549,2024-07-10,"Tuscany, Italy","Rome, Italy",Summer,35–44,Male,Domestic,2,3,Leisure / Holiday,140,714,Hotel (3-star)
+TVA-00550,2024-05-18,"Île-de-France, France","Vienna, Austria",Spring,65+,Female,Domestic,1,18,Adventure,87,1566,Hostel
+TVA-00551,2024-12-17,"New South Wales, AU","Prague, Czechia",Winter,25–34,Female,Domestic,3,5,Business / MICE,105,1260,Airbnb / Vacation Rental
+TVA-00552,2024-12-14,Saudi Arabia,"Cancún, Mexico",Winter,35–44,Male,International,4,6,Leisure / Holiday,78,1451,Hostel
+TVA-00553,2024-08-06,Central Thailand,"Bangkok, Thailand",Summer,55–64,Male,Domestic,3,1,Transit,104,250,Airbnb / Vacation Rental
+TVA-00554,2024-09-14,"Dubai Emirate, UAE","Dubai, UAE",Autumn,45–54,Male,Domestic,2,12,Visiting Friends & Family,405,8262,Hotel (4-star)
+TVA-00555,2024-10-06,"Tuscany, Italy","Bali, Indonesia",Autumn,35–44,Female,Domestic,2,12,Visiting Friends & Family,100,2040,Hotel (3-star)
+TVA-00556,2023-01-28,South Korea,"Cape Town, South Africa",Winter,25–34,Female,International,3,5,Leisure / Holiday,229,2748,Hotel (5-star)
+TVA-00557,2022-12-20,Central Thailand,"Bangkok, Thailand",Winter,35–44,Male,Domestic,1,7,Leisure / Holiday,127,889,Hotel (4-star)
+TVA-00558,2023-09-10,Central Thailand,"Bangkok, Thailand",Autumn,45–54,Male,Domestic,3,14,Health & Wellness,100,3360,Airbnb / Vacation Rental
+TVA-00559,2022-11-04,"Istanbul Province, Turkey","Istanbul, Turkey",Autumn,35–44,Female,Domestic,1,5,Business / MICE,240,1200,Resort
+TVA-00560,2024-10-24,Turkey,"Istanbul, Turkey",Autumn,45–54,Non-binary,Domestic,1,11,Leisure / Holiday,231,2541,Resort
+TVA-00561,2024-04-05,Sweden,"Cape Town, South Africa",Spring,55–64,Male,International,3,6,Business / MICE,94,1354,Airbnb / Vacation Rental
+TVA-00562,2023-08-25,Central Thailand,"Marrakech, Morocco",Summer,18–24,Male,Domestic,3,12,Leisure / Holiday,40,1152,Hostel
+TVA-00563,2024-05-21,Central Thailand,"Bangkok, Thailand",Spring,45–54,Male,Domestic,3,4,Leisure / Holiday,114,1094,Hotel (3-star)
+TVA-00564,2024-12-12,China,"Tokyo, Japan",Winter,25–34,Male,International,3,9,Leisure / Holiday,350,7560,Hotel (4-star)
+TVA-00565,2024-01-13,Spain,"Mumbai, India",Winter,35–44,Non-binary,International,4,7,Leisure / Holiday,161,3494,Hotel (4-star)
+TVA-00566,2024-03-12,Spain,"New York, USA",Spring,25–34,Female,International,2,6,Business / MICE,288,2938,Airbnb / Vacation Rental
+TVA-00567,2024-03-07,India,"Amsterdam, Netherlands",Spring,25–34,Male,International,1,1,Transit,140,140,Airbnb / Vacation Rental
+TVA-00568,2023-03-19,"Kantō, Japan","Vienna, Austria",Spring,35–44,Female,Domestic,3,13,Adventure,93,2902,Camping / Glamping
+TVA-00569,2024-07-14,Canada,"Sydney, Australia",Summer,35–44,Female,International,1,16,Visiting Friends & Family,216,3456,Hotel (3-star)
+TVA-00570,2022-07-01,Brazil,"Sydney, Australia",Summer,35–44,Female,International,2,14,Leisure / Holiday,342,8140,Hotel (5-star)
+TVA-00571,2023-12-14,"Île-de-France, France",Singapore,Winter,25–34,Male,Domestic,3,4,Business / MICE,266,2554,Hotel (3-star)
+TVA-00572,2024-06-06,"Tuscany, Italy","Cairo, Egypt",Summer,45–54,Female,Domestic,1,11,Leisure / Holiday,80,880,Airbnb / Vacation Rental
+TVA-00573,2023-11-20,Spain,"Bali, Indonesia",Autumn,25–34,Male,International,5,4,Leisure / Holiday,89,1353,Airbnb / Vacation Rental
+TVA-00574,2024-03-21,"New South Wales, AU",Singapore,Spring,35–44,Female,Domestic,3,3,Business / MICE,416,2995,Hotel (5-star)
+TVA-00575,2024-04-23,Mexico,"Cancún, Mexico",Spring,65+,Male,Domestic,4,7,Leisure / Holiday,134,2908,Airbnb / Vacation Rental
+TVA-00576,2024-06-01,Canada,"Bali, Indonesia",Summer,55–64,Male,International,3,5,Leisure / Holiday,151,1812,Hotel (5-star)
+TVA-00577,2024-08-09,Turkey,"Sydney, Australia",Summer,25–34,Male,International,6,7,Visiting Friends & Family,210,6615,Hotel (3-star)
+TVA-00578,2024-02-15,Brazil,"Cairo, Egypt",Winter,25–34,Male,International,1,12,Health & Wellness,37,444,Camping / Glamping
+TVA-00579,2023-09-27,United Kingdom,Singapore,Autumn,65+,Female,International,1,2,Business / MICE,250,500,Airbnb / Vacation Rental
+TVA-00580,2023-03-06,United Kingdom,"Amsterdam, Netherlands",Spring,25–34,Male,International,3,5,Business / MICE,167,2004,Hotel (3-star)
+TVA-00581,2024-01-06,Central Thailand,"Bangkok, Thailand",Winter,55–64,Male,Domestic,2,8,Visiting Friends & Family,169,2298,Resort
+TVA-00582,2024-04-10,Netherlands,"Amsterdam, Netherlands",Spring,25–34,Female,Domestic,2,65,Education,334,36907,Hotel (5-star)
+TVA-00583,2023-12-21,Spain,"Barcelona, Spain",Winter,55–64,Male,Domestic,2,5,Business / MICE,214,1819,Hotel (4-star)
+TVA-00584,2023-08-24,Canada,Singapore,Summer,25–34,Male,International,3,176,Education,492,207821,Resort
+TVA-00585,2024-04-01,South Korea,Singapore,Spring,35–44,Female,International,2,165,Education,231,64796,Hotel (3-star)
+TVA-00586,2024-06-06,Russia,"Rome, Italy",Summer,25–34,Female,International,3,3,Leisure / Holiday,167,1202,Hotel (3-star)
+TVA-00587,2022-10-03,Mexico,Singapore,Autumn,45–54,Male,International,2,4,Business / MICE,222,1510,Hotel (3-star)
+TVA-00588,2023-11-27,Japan,"Tokyo, Japan",Autumn,45–54,Male,Domestic,2,9,Leisure / Holiday,457,6992,Resort
+TVA-00589,2024-08-02,Brazil,"Prague, Czechia",Summer,55–64,Female,International,2,11,Leisure / Holiday,34,636,Friends / Family Home
+TVA-00590,2024-07-01,India,"Cape Town, South Africa",Summer,35–44,Female,International,2,10,Leisure / Holiday,187,3179,Hotel (4-star)
+TVA-00591,2024-09-24,"Kantō, Japan","Bali, Indonesia",Autumn,18–24,Male,Domestic,1,14,Leisure / Holiday,54,756,Hostel
+TVA-00592,2022-04-20,Australia,"London, UK",Spring,25–34,Male,International,5,6,Health & Wellness,440,10032,Resort
+TVA-00593,2024-04-04,Russia,"Barcelona, Spain",Spring,55–64,Female,International,2,7,Business / MICE,73,869,Hostel
+TVA-00594,2023-07-05,"Île-de-France, France","Cairo, Egypt",Summer,25–34,Male,Domestic,4,10,Leisure / Holiday,72,2232,Airbnb / Vacation Rental
+TVA-00595,2024-06-02,Japan,"Paris, France",Summer,45–54,Female,International,2,13,Leisure / Holiday,162,3580,Airbnb / Vacation Rental
+TVA-00596,2022-06-14,United Kingdom,"Barcelona, Spain",Summer,25–34,Female,International,2,11,Leisure / Holiday,131,2450,Airbnb / Vacation Rental
+TVA-00597,2024-05-19,Brazil,"Paris, France",Spring,45–54,Female,International,4,11,Health & Wellness,323,11014,Hotel (5-star)
+TVA-00598,2024-03-15,China,"Paris, France",Spring,65+,Female,International,2,79,Education,291,39081,Hotel (5-star)
+TVA-00599,2024-07-06,Argentina,"Rome, Italy",Summer,25–34,Female,International,1,14,Adventure,184,2576,Hotel (3-star)
+TVA-00600,2022-09-16,France,"Barcelona, Spain",Autumn,35–44,Female,International,2,12,Visiting Friends & Family,248,5059,Hotel (5-star)
+TVA-00601,2023-11-08,United States,"Rome, Italy",Autumn,18–24,Female,International,2,9,Leisure / Holiday,168,2570,Hotel (3-star)
+TVA-00602,2024-03-21,"Tuscany, Italy","Rome, Italy",Spring,18–24,Male,Domestic,2,4,Leisure / Holiday,144,979,Airbnb / Vacation Rental
+TVA-00603,2024-07-19,Sweden,"Amsterdam, Netherlands",Summer,45–54,Male,International,3,13,Visiting Friends & Family,95,2964,Camping / Glamping
+TVA-00604,2024-08-12,Mexico,"Cancún, Mexico",Summer,45–54,Male,Domestic,1,7,Visiting Friends & Family,53,371,Camping / Glamping
+TVA-00605,2024-03-09,Germany,Singapore,Spring,18–24,Male,International,4,7,Leisure / Holiday,483,10481,Hotel (5-star)
+TVA-00606,2023-08-13,"New York State, USA","New York, USA",Summer,18–24,Male,Domestic,2,5,Leisure / Holiday,368,3128,Hotel (4-star)
+TVA-00607,2024-06-20,"Istanbul Province, Turkey","Bali, Indonesia",Summer,35–44,Male,Domestic,2,3,Business / MICE,93,474,Airbnb / Vacation Rental
+TVA-00608,2024-05-27,India,"Rome, Italy",Spring,45–54,Female,International,1,21,Adventure,271,5691,Hotel (5-star)
+TVA-00609,2022-03-11,"Kantō, Japan","Cairo, Egypt",Spring,25–34,Female,Domestic,2,9,Visiting Friends & Family,33,505,Friends / Family Home
+TVA-00610,2023-12-24,Japan,"Tokyo, Japan",Winter,55–64,Female,Domestic,6,9,Leisure / Holiday,203,8222,Hotel (3-star)
+TVA-00611,2024-02-27,United Kingdom,"Paris, France",Winter,18–24,Male,International,2,2,Business / MICE,178,605,Airbnb / Vacation Rental
+TVA-00612,2023-03-12,China,"Rome, Italy",Spring,45–54,Female,International,6,6,Leisure / Holiday,122,3294,Airbnb / Vacation Rental
+TVA-00613,2024-11-09,"Noord-Holland, NL","Marrakech, Morocco",Autumn,25–34,Male,Domestic,2,21,Visiting Friends & Family,188,6712,Hotel (5-star)
+TVA-00614,2024-06-04,United States,"Sydney, Australia",Summer,18–24,Male,International,4,14,Leisure / Holiday,186,8072,Hotel (3-star)
+TVA-00615,2024-05-11,India,"London, UK",Spring,45–54,Male,International,2,13,Leisure / Holiday,328,7249,Hotel (4-star)
+TVA-00616,2024-01-06,Mexico,"Cancún, Mexico",Winter,35–44,Male,Domestic,1,11,Leisure / Holiday,44,484,Friends / Family Home
+TVA-00617,2023-12-10,Netherlands,"Amsterdam, Netherlands",Winter,55–64,Female,Domestic,4,8,Adventure,368,9126,Resort
+TVA-00618,2023-04-18,Russia,"Vienna, Austria",Spring,18–24,Male,International,2,45,Education,115,8798,Hostel
+TVA-00619,2022-10-15,France,"Istanbul, Turkey",Autumn,25–34,Male,International,4,3,Business / MICE,146,1358,Hotel (3-star)
+TVA-00620,2024-12-16,Spain,"Cancún, Mexico",Winter,65+,Female,International,1,4,Business / MICE,45,180,Friends / Family Home
+TVA-00621,2024-04-25,Sweden,"Cape Town, South Africa",Spring,45–54,Female,International,2,5,Leisure / Holiday,116,986,Hotel (3-star)
+TVA-00622,2024-04-22,Japan,Singapore,Spring,35–44,Female,International,1,16,Visiting Friends & Family,245,3920,Hotel (3-star)
+TVA-00623,2024-06-15,United Kingdom,"Tokyo, Japan",Summer,18–24,Male,International,5,3,Leisure / Holiday,456,5198,Resort
+TVA-00624,2024-12-13,Turkey,"Cairo, Egypt",Winter,45–54,Male,International,2,19,Visiting Friends & Family,89,2875,Hotel (4-star)
+TVA-00625,2024-02-22,"Catalonia, Spain","Prague, Czechia",Winter,18–24,Female,Domestic,4,2,Business / MICE,146,905,Hotel (4-star)
+TVA-00626,2024-10-12,"Istanbul Province, Turkey","Istanbul, Turkey",Autumn,65+,Female,Domestic,2,17,Adventure,213,6156,Resort
+TVA-00627,2024-10-13,Argentina,"Paris, France",Autumn,55–64,Male,International,3,5,Business / MICE,156,1872,Airbnb / Vacation Rental
+TVA-00628,2024-09-14,United Kingdom,"Marrakech, Morocco",Autumn,65+,Male,International,6,10,Leisure / Holiday,52,2340,Hostel
+TVA-00629,2024-01-02,Australia,Singapore,Winter,45–54,Female,International,6,3,Leisure / Holiday,536,7236,Hotel (5-star)
+TVA-00630,2023-12-02,"Dubai Emirate, UAE","Dubai, UAE",Winter,45–54,Female,Domestic,3,3,Business / MICE,262,1886,Airbnb / Vacation Rental
+TVA-00631,2023-08-10,Italy,"Rome, Italy",Summer,65+,Female,Domestic,5,2,Business / MICE,165,1254,Airbnb / Vacation Rental
+TVA-00632,2024-05-12,Sweden,"Dubai, UAE",Spring,35–44,Male,International,2,12,Health & Wellness,220,4488,Airbnb / Vacation Rental
+TVA-00633,2024-01-14,Turkey,"Cancún, Mexico",Winter,25–34,Male,International,2,8,Leisure / Holiday,133,1809,Airbnb / Vacation Rental
+TVA-00634,2024-03-10,United States,"Prague, Czechia",Spring,45–54,Male,International,1,8,Health & Wellness,151,1208,Resort
+TVA-00635,2024-03-11,Turkey,"Dubai, UAE",Spring,25–34,Male,International,1,11,Adventure,500,5500,Resort
+TVA-00636,2024-10-19,Australia,"Cancún, Mexico",Autumn,25–34,Male,International,3,13,Leisure / Holiday,276,8611,Hotel (5-star)
+TVA-00637,2023-05-06,"New York State, USA","New York, USA",Spring,55–64,Male,Domestic,1,6,Business / MICE,181,1086,Hostel
+TVA-00638,2024-04-18,Netherlands,"Prague, Czechia",Spring,35–44,Female,International,3,10,Leisure / Holiday,121,2904,Hotel (3-star)
+TVA-00639,2023-01-23,"Istanbul Province, Turkey","Cairo, Egypt",Winter,25–34,Male,Domestic,4,4,Visiting Friends & Family,74,918,Hotel (3-star)
+TVA-00640,2024-04-26,"Istanbul Province, Turkey","Istanbul, Turkey",Spring,25–34,Male,Domestic,2,3,Leisure / Holiday,201,1025,Hotel (4-star)
+TVA-00641,2024-02-10,Turkey,"Paris, France",Winter,25–34,Female,International,2,7,Visiting Friends & Family,214,2547,Hotel (4-star)
+TVA-00642,2023-12-10,Australia,"Vienna, Austria",Winter,65+,Male,International,3,19,Visiting Friends & Family,179,8162,Airbnb / Vacation Rental
+TVA-00643,2024-01-10,Argentina,"Barcelona, Spain",Winter,45–54,Male,International,4,9,Leisure / Holiday,189,5273,Hotel (4-star)
+TVA-00644,2023-09-21,Japan,"Bangkok, Thailand",Autumn,65+,Female,International,1,7,Visiting Friends & Family,178,1246,Resort
+TVA-00645,2022-12-25,"New York State, USA","Cairo, Egypt",Winter,55–64,Male,Domestic,2,8,Leisure / Holiday,126,1714,Hotel (4-star)
+TVA-00646,2023-02-21,Australia,"Sydney, Australia",Winter,35–44,Male,Domestic,4,4,Business / MICE,99,1228,Camping / Glamping
+TVA-00647,2024-05-06,Germany,"Marrakech, Morocco",Spring,18–24,Female,International,6,6,Business / MICE,103,2781,Hotel (3-star)
+TVA-00648,2023-06-04,China,"Bangkok, Thailand",Summer,55–64,Female,International,3,14,Health & Wellness,40,1344,Friends / Family Home
+TVA-00649,2024-04-22,Argentina,Singapore,Spring,45–54,Female,International,1,7,Leisure / Holiday,426,2982,Hotel (4-star)
+TVA-00650,2022-12-20,Canada,"Marrakech, Morocco",Winter,25–34,Male,International,4,7,Business / MICE,157,3407,Hotel (5-star)
+TVA-00651,2023-06-02,Spain,"Cape Town, South Africa",Summer,35–44,Male,International,1,13,Visiting Friends & Family,225,2925,Resort
+TVA-00652,2024-04-11,Spain,"Cairo, Egypt",Spring,25–34,Male,International,2,13,Adventure,143,3160,Resort
+TVA-00653,2024-04-07,Germany,"Dubai, UAE",Spring,35–44,Female,International,1,7,Leisure / Holiday,231,1617,Airbnb / Vacation Rental
+TVA-00654,2024-01-15,Canada,"New York, USA",Winter,18–24,Female,International,1,14,Leisure / Holiday,150,2100,Hostel
+TVA-00655,2024-09-02,Central Thailand,"Prague, Czechia",Autumn,65+,Female,Domestic,5,4,Leisure / Holiday,153,2326,Hotel (4-star)
+TVA-00656,2023-03-22,India,"Mumbai, India",Spring,18–24,Female,Domestic,5,10,Leisure / Holiday,145,5510,Hotel (4-star)
+TVA-00657,2024-07-28,Turkey,"Bangkok, Thailand",Summer,35–44,Male,International,1,11,Leisure / Holiday,107,1177,Hotel (3-star)
+TVA-00658,2023-02-11,"Greater London, UK","London, UK",Winter,18–24,Male,Domestic,3,10,Leisure / Holiday,271,6504,Airbnb / Vacation Rental
+TVA-00659,2024-04-20,India,"Mumbai, India",Spring,25–34,Male,Domestic,6,5,Adventure,160,3600,Hotel (4-star)
+TVA-00660,2024-08-01,Netherlands,"Amsterdam, Netherlands",Summer,25–34,Female,Domestic,2,10,Leisure / Holiday,407,6919,Resort
+TVA-00661,2024-12-26,"Greater London, UK","London, UK",Winter,25–34,Female,Domestic,3,5,Leisure / Holiday,246,2952,Airbnb / Vacation Rental
+TVA-00662,2024-02-12,Netherlands,"Amsterdam, Netherlands",Winter,35–44,Female,Domestic,2,8,Adventure,73,993,Friends / Family Home
+TVA-00663,2022-12-20,Italy,"New York, USA",Winter,45–54,Male,International,2,3,Business / MICE,606,3091,Hotel (5-star)
+TVA-00664,2024-09-25,France,"Mumbai, India",Autumn,25–34,Male,International,5,2,Transit,52,395,Camping / Glamping
+TVA-00665,2022-04-01,Germany,"Bangkok, Thailand",Spring,35–44,Female,International,2,5,Health & Wellness,85,723,Airbnb / Vacation Rental
+TVA-00666,2024-05-13,Australia,"Sydney, Australia",Spring,45–54,Female,Domestic,6,14,Leisure / Holiday,242,15246,Hotel (4-star)
+TVA-00667,2024-12-11,Japan,"Istanbul, Turkey",Winter,35–44,Female,International,1,9,Adventure,113,1017,Hotel (3-star)
+TVA-00668,2024-10-04,Saudi Arabia,"Sydney, Australia",Autumn,25–34,Female,International,3,21,Adventure,461,23234,Resort
+TVA-00669,2023-05-17,"Greater London, UK","Cairo, Egypt",Spring,35–44,Male,Domestic,1,5,Leisure / Holiday,73,365,Hotel (3-star)
+TVA-00670,2024-03-13,"New York State, USA","Marrakech, Morocco",Spring,25–34,Male,Domestic,5,3,Leisure / Holiday,93,1060,Hotel (3-star)
+TVA-00671,2023-12-09,"Istanbul Province, Turkey",Singapore,Winter,45–54,Female,Domestic,1,21,Visiting Friends & Family,217,4557,Airbnb / Vacation Rental
+TVA-00672,2023-06-10,Turkey,"Sydney, Australia",Summer,55–64,Female,International,2,5,Business / MICE,455,3868,Hotel (5-star)
+TVA-00673,2024-05-08,"New York State, USA","New York, USA",Spring,35–44,Female,Domestic,2,4,Business / MICE,404,2747,Hotel (4-star)
+TVA-00674,2023-12-24,Italy,"Cape Town, South Africa",Winter,25–34,Male,International,6,5,Visiting Friends & Family,131,2948,Hotel (4-star)
+TVA-00675,2022-06-01,France,"Mumbai, India",Summer,35–44,Male,International,1,7,Adventure,117,819,Hotel (4-star)
+TVA-00676,2024-12-02,Argentina,"Cape Town, South Africa",Winter,18–24,Non-binary,International,1,6,Leisure / Holiday,179,1074,Hotel (5-star)
+TVA-00677,2024-07-23,Turkey,"Mumbai, India",Summer,35–44,Male,International,5,5,Leisure / Holiday,50,950,Hostel
+TVA-00678,2023-07-26,United States,"Marrakech, Morocco",Summer,18–24,Female,International,3,8,Visiting Friends & Family,97,1862,Hotel (4-star)
+TVA-00679,2024-02-23,Argentina,"Dubai, UAE",Winter,35–44,Female,International,2,6,Leisure / Holiday,384,3917,Hotel (4-star)
+TVA-00680,2024-11-02,"Greater London, UK","Bali, Indonesia",Autumn,65+,Male,Domestic,3,12,Leisure / Holiday,32,922,Friends / Family Home
+TVA-00681,2023-06-05,Japan,"Bangkok, Thailand",Summer,25–34,Female,International,3,15,Adventure,38,1368,Friends / Family Home
+TVA-00682,2023-10-01,"Greater London, UK","London, UK",Autumn,25–34,Male,Domestic,4,4,Business / MICE,615,7626,Hotel (5-star)
+TVA-00683,2024-02-24,"Tuscany, Italy","Cape Town, South Africa",Winter,45–54,Male,Domestic,4,7,Business / MICE,64,1389,Hostel
+TVA-00684,2024-05-15,India,"Tokyo, Japan",Spring,25–34,Female,International,2,9,Leisure / Holiday,446,6824,Hotel (5-star)
+TVA-00685,2024-06-07,India,Singapore,Summer,65+,Male,International,1,72,Education,132,9504,Hostel
+TVA-00686,2023-07-27,"Tuscany, Italy","Rome, Italy",Summer,55–64,Male,Domestic,1,7,Business / MICE,163,1141,Airbnb / Vacation Rental
+TVA-00687,2023-06-10,Saudi Arabia,"Rome, Italy",Summer,55–64,Male,International,2,4,Business / MICE,226,1537,Hotel (4-star)
+TVA-00688,2023-10-08,Spain,"Barcelona, Spain",Autumn,25–34,Female,International,3,132,Education,165,52272,Airbnb / Vacation Rental
+TVA-00689,2024-12-02,Canada,"Cairo, Egypt",Winter,18–24,Female,International,1,14,Leisure / Holiday,41,574,Hostel
+TVA-00690,2023-03-21,"Catalonia, Spain","Barcelona, Spain",Spring,65+,Male,Domestic,3,9,Leisure / Holiday,299,6458,Resort
+TVA-00691,2023-09-09,Japan,"Rome, Italy",Autumn,45–54,Female,International,2,13,Leisure / Holiday,54,1193,Friends / Family Home
+TVA-00692,2023-02-04,Australia,"Barcelona, Spain",Winter,35–44,Female,International,2,4,Visiting Friends & Family,309,2101,Hotel (5-star)
+TVA-00693,2024-06-13,Italy,"Rome, Italy",Summer,65+,Female,Domestic,1,5,Business / MICE,291,1455,Hotel (5-star)
+TVA-00694,2024-11-23,Mexico,"Mumbai, India",Autumn,18–24,Female,International,2,12,Leisure / Holiday,212,4325,Resort
+TVA-00695,2024-02-17,Mexico,"Cancún, Mexico",Winter,45–54,Female,Domestic,2,15,Adventure,55,1403,Friends / Family Home
+TVA-00696,2024-07-08,Spain,"Barcelona, Spain",Summer,45–54,Male,Domestic,5,9,Leisure / Holiday,234,8003,Hotel (4-star)
+TVA-00697,2024-01-02,United Kingdom,"Bangkok, Thailand",Winter,65+,Male,International,3,4,Leisure / Holiday,157,1507,Hotel (4-star)
+TVA-00698,2024-04-21,Spain,"Rome, Italy",Spring,35–44,Female,International,1,55,Education,186,10230,Hotel (3-star)
+TVA-00699,2023-02-10,"New York State, USA","New York, USA",Winter,45–54,Female,Domestic,3,10,Leisure / Holiday,433,10392,Resort
+TVA-00700,2024-05-01,Brazil,"New York, USA",Spring,25–34,Female,International,1,149,Education,557,82993,Resort
+TVA-00701,2023-05-23,India,"London, UK",Spring,65+,Female,International,6,6,Health & Wellness,133,3591,Hostel
+TVA-00702,2024-03-09,Sweden,"Rome, Italy",Spring,18–24,Male,International,3,9,Leisure / Holiday,243,5249,Hotel (4-star)
+TVA-00703,2024-09-24,Germany,"Cape Town, South Africa",Autumn,18–24,Female,International,2,7,Health & Wellness,169,2011,Hotel (4-star)
+TVA-00704,2024-08-18,Brazil,"London, UK",Summer,65+,Non-binary,International,3,4,Leisure / Holiday,96,922,Friends / Family Home
+TVA-00705,2024-04-15,Netherlands,"Cairo, Egypt",Spring,55–64,Male,International,4,13,Visiting Friends & Family,92,3708,Hotel (4-star)
+TVA-00706,2023-10-24,India,"Marrakech, Morocco",Autumn,45–54,Female,International,4,12,Leisure / Holiday,92,3422,Airbnb / Vacation Rental
+TVA-00707,2023-09-25,Sweden,"Vienna, Austria",Autumn,18–24,Male,International,3,4,Business / MICE,176,1690,Hotel (3-star)
+TVA-00708,2023-03-12,India,"Cairo, Egypt",Spring,25–34,Female,International,3,2,Transit,124,595,Hotel (5-star)
+TVA-00709,2024-03-06,Sweden,"Barcelona, Spain",Spring,35–44,Female,International,2,6,Health & Wellness,160,1632,Hotel (3-star)
+TVA-00710,2022-02-03,Russia,"Tokyo, Japan",Winter,45–54,Male,International,3,2,Business / MICE,213,1022,Hotel (3-star)
+TVA-00711,2024-05-17,Mexico,"Sydney, Australia",Spring,25–34,Male,International,2,13,Visiting Friends & Family,79,1746,Friends / Family Home
+TVA-00712,2023-08-11,China,"Paris, France",Summer,35–44,Female,International,1,6,Leisure / Holiday,71,426,Friends / Family Home
+TVA-00713,2024-07-22,"Istanbul Province, Turkey","Istanbul, Turkey",Summer,55–64,Female,Domestic,3,3,Business / MICE,177,1274,Hotel (4-star)
+TVA-00714,2024-03-05,Russia,"Cairo, Egypt",Spring,55–64,Male,International,1,2,Business / MICE,87,174,Hotel (3-star)
+TVA-00715,2022-03-03,Germany,"Marrakech, Morocco",Spring,18–24,Female,International,2,4,Visiting Friends & Family,27,184,Friends / Family Home
+TVA-00716,2024-08-03,"Dubai Emirate, UAE","Dubai, UAE",Summer,25–34,Non-binary,Domestic,6,4,Business / MICE,238,4284,Airbnb / Vacation Rental
+TVA-00717,2024-12-20,Germany,"Cancún, Mexico",Winter,25–34,Female,International,3,16,Visiting Friends & Family,145,5568,Hotel (3-star)
+TVA-00718,2024-08-01,China,"Cape Town, South Africa",Summer,25–34,Male,International,3,4,Leisure / Holiday,194,1862,Resort
+TVA-00719,2022-02-25,Turkey,"Istanbul, Turkey",Winter,18–24,Female,Domestic,1,6,Adventure,106,636,Hotel (3-star)
+TVA-00720,2023-11-12,Italy,"Mumbai, India",Autumn,35–44,Male,International,6,19,Adventure,113,9662,Hotel (4-star)
+TVA-00721,2023-12-26,Netherlands,"Cape Town, South Africa",Winter,45–54,Male,International,2,10,Health & Wellness,64,1088,Hostel
+TVA-00722,2023-09-25,Australia,"Vienna, Austria",Autumn,25–34,Female,International,2,11,Leisure / Holiday,70,1309,Camping / Glamping
+TVA-00723,2023-05-18,"Noord-Holland, NL","Marrakech, Morocco",Spring,25–34,Male,Domestic,4,3,Business / MICE,78,725,Hotel (3-star)
+TVA-00724,2024-03-02,"New York State, USA","New York, USA",Spring,25–34,Male,Domestic,4,1,Transit,278,862,Hotel (3-star)
+TVA-00725,2022-05-25,Saudi Arabia,"Bangkok, Thailand",Spring,25–34,Male,International,1,12,Leisure / Holiday,68,816,Hostel
+TVA-00726,2022-03-03,Spain,"Cape Town, South Africa",Spring,55–64,Female,International,1,10,Health & Wellness,180,1800,Hotel (4-star)
+TVA-00727,2024-08-21,Netherlands,Singapore,Summer,25–34,Female,International,5,19,Adventure,497,35883,Hotel (5-star)
+TVA-00728,2024-02-12,United States,"Bali, Indonesia",Winter,45–54,Male,International,1,9,Leisure / Holiday,91,819,Airbnb / Vacation Rental
+TVA-00729,2024-01-26,South Korea,Singapore,Winter,35–44,Male,International,1,5,Business / MICE,243,1215,Hotel (3-star)
+TVA-00730,2024-01-22,"Greater London, UK","Cape Town, South Africa",Winter,35–44,Female,Domestic,1,14,Leisure / Holiday,79,1106,Hostel
+TVA-00731,2024-07-17,"Catalonia, Spain",Singapore,Summer,45–54,Female,Domestic,4,3,Business / MICE,355,3301,Hotel (4-star)
+TVA-00732,2024-10-26,"Greater London, UK","Cairo, Egypt",Autumn,55–64,Female,Domestic,2,5,Leisure / Holiday,72,612,Airbnb / Vacation Rental
+TVA-00733,2024-05-27,Spain,"Mumbai, India",Spring,45–54,Male,International,4,11,Visiting Friends & Family,77,2626,Airbnb / Vacation Rental
+TVA-00734,2024-06-04,Saudi Arabia,"London, UK",Summer,65+,Male,International,1,4,Business / MICE,232,928,Hotel (3-star)
+TVA-00735,2024-09-19,Netherlands,"Mumbai, India",Autumn,45–54,Female,International,4,8,Leisure / Holiday,154,3819,Hotel (4-star)
+TVA-00736,2023-07-26,Sweden,Singapore,Summer,18–24,Male,International,2,10,Leisure / Holiday,96,1632,Friends / Family Home
+TVA-00737,2024-07-15,India,"Barcelona, Spain",Summer,25–34,Male,International,1,2,Business / MICE,62,124,Camping / Glamping
+TVA-00738,2024-02-02,France,"New York, USA",Winter,45–54,Male,International,1,6,Leisure / Holiday,311,1866,Airbnb / Vacation Rental
+TVA-00739,2023-02-01,"Greater London, UK","London, UK",Winter,55–64,Female,Domestic,1,3,Leisure / Holiday,462,1386,Resort
+TVA-00740,2024-02-02,"Noord-Holland, NL",Singapore,Winter,18–24,Female,Domestic,5,1,Transit,311,1182,Hotel (3-star)
+TVA-00741,2024-05-10,Russia,"London, UK",Spring,35–44,Male,International,5,14,Visiting Friends & Family,429,22823,Hotel (4-star)
+TVA-00742,2024-05-14,India,"Mumbai, India",Spring,25–34,Non-binary,Domestic,2,7,Business / MICE,172,2047,Hotel (5-star)
+TVA-00743,2024-11-06,Mexico,Singapore,Autumn,25–34,Female,International,1,21,Adventure,394,8274,Hotel (4-star)
+TVA-00744,2023-01-19,Italy,"Prague, Czechia",Winter,25–34,Male,International,6,9,Visiting Friends & Family,82,3321,Airbnb / Vacation Rental
+TVA-00745,2023-10-13,United States,"Vienna, Austria",Autumn,45–54,Male,International,3,11,Leisure / Holiday,286,7550,Hotel (4-star)
+TVA-00746,2024-11-28,Netherlands,"Amsterdam, Netherlands",Autumn,55–64,Male,Domestic,6,7,Leisure / Holiday,261,8222,Hotel (4-star)
+TVA-00747,2024-02-16,France,"London, UK",Winter,25–34,Female,International,2,10,Health & Wellness,280,4760,Hotel (3-star)
+TVA-00748,2024-09-28,"Dubai Emirate, UAE","Dubai, UAE",Autumn,35–44,Female,Domestic,6,11,Leisure / Holiday,531,26285,Resort
+TVA-00749,2022-08-12,Central Thailand,"Bangkok, Thailand",Summer,55–64,Female,Domestic,1,9,Leisure / Holiday,91,819,Airbnb / Vacation Rental
+TVA-00750,2023-06-16,India,"Sydney, Australia",Summer,35–44,Female,International,2,8,Leisure / Holiday,248,3373,Hotel (4-star)
+TVA-00751,2024-04-17,Italy,"Marrakech, Morocco",Spring,45–54,Male,International,4,7,Business / MICE,138,2995,Hotel (4-star)
+TVA-00752,2022-07-15,"Île-de-France, France","Paris, France",Summer,35–44,Male,Domestic,1,5,Leisure / Holiday,187,935,Hotel (3-star)
+TVA-00753,2022-09-11,Brazil,"Tokyo, Japan",Autumn,65+,Female,International,2,9,Leisure / Holiday,240,3672,Hotel (3-star)
+TVA-00754,2024-10-07,"Kantō, Japan","Tokyo, Japan",Autumn,18–24,Male,Domestic,2,9,Leisure / Holiday,133,2035,Hostel
+TVA-00755,2022-02-13,Russia,"Cape Town, South Africa",Winter,25–34,Male,International,4,12,Leisure / Holiday,71,2641,Hostel
+TVA-00756,2024-03-02,Turkey,"Marrakech, Morocco",Spring,45–54,Female,International,6,7,Leisure / Holiday,154,4851,Resort
+TVA-00757,2023-09-10,Japan,"Tokyo, Japan",Autumn,35–44,Female,Domestic,2,10,Leisure / Holiday,288,4896,Hotel (3-star)
+TVA-00758,2024-06-12,"Greater London, UK","London, UK",Summer,55–64,Female,Domestic,4,3,Business / MICE,293,2725,Hotel (3-star)
+TVA-00759,2022-10-25,"New York State, USA","New York, USA",Autumn,35–44,Female,Domestic,1,2,Transit,306,612,Airbnb / Vacation Rental
+TVA-00760,2024-03-08,Mexico,"New York, USA",Spring,35–44,Male,International,1,7,Business / MICE,472,3304,Hotel (5-star)
+TVA-00761,2023-09-01,Spain,"Dubai, UAE",Autumn,45–54,Female,International,2,4,Business / MICE,274,1863,Hotel (3-star)
+TVA-00762,2022-08-05,"New York State, USA","New York, USA",Summer,35–44,Male,Domestic,2,12,Leisure / Holiday,233,4753,Airbnb / Vacation Rental
+TVA-00763,2024-08-15,"Kantō, Japan","Bali, Indonesia",Summer,25–34,Male,Domestic,2,13,Visiting Friends & Family,162,3580,Hotel (5-star)
+TVA-00764,2024-08-22,Argentina,"Amsterdam, Netherlands",Summer,25–34,Female,International,1,13,Leisure / Holiday,311,4043,Hotel (4-star)
+TVA-00765,2022-05-24,"Istanbul Province, Turkey","Istanbul, Turkey",Spring,25–34,Male,Domestic,3,18,Visiting Friends & Family,263,11362,Resort
+TVA-00766,2024-04-27,Netherlands,"Cape Town, South Africa",Spring,35–44,Male,International,1,13,Leisure / Holiday,184,2392,Hotel (4-star)
+TVA-00767,2024-06-09,France,"Cape Town, South Africa",Summer,35–44,Female,International,2,12,Visiting Friends & Family,48,979,Camping / Glamping
+TVA-00768,2024-10-07,Saudi Arabia,"Sydney, Australia",Autumn,45–54,Female,International,1,10,Leisure / Holiday,204,2040,Airbnb / Vacation Rental
+TVA-00769,2023-03-03,"New York State, USA","New York, USA",Spring,55–64,Female,Domestic,3,1,Transit,456,1094,Hotel (4-star)
+TVA-00770,2023-07-25,India,"Mumbai, India",Summer,18–24,Male,Domestic,2,5,Leisure / Holiday,121,1029,Hotel (3-star)
+TVA-00771,2024-01-26,"Greater London, UK","Vienna, Austria",Winter,55–64,Female,Domestic,1,8,Adventure,214,1712,Hotel (3-star)
+TVA-00772,2024-09-25,Netherlands,"Bali, Indonesia",Autumn,18–24,Male,International,4,11,Adventure,111,3785,Hotel (4-star)
+TVA-00773,2024-01-06,France,"Cape Town, South Africa",Winter,18–24,Female,International,4,19,Visiting Friends & Family,49,2886,Friends / Family Home
+TVA-00774,2022-09-02,Germany,"Sydney, Australia",Autumn,18–24,Female,International,2,14,Leisure / Holiday,221,5260,Hotel (3-star)
+TVA-00775,2024-05-28,"Île-de-France, France","Bali, Indonesia",Spring,45–54,Female,Domestic,2,7,Adventure,49,583,Hostel
+TVA-00776,2024-12-12,Mexico,"New York, USA",Winter,45–54,Male,International,3,15,Visiting Friends & Family,130,4680,Camping / Glamping
+TVA-00777,2024-04-15,Turkey,"Cairo, Egypt",Spring,35–44,Male,International,2,14,Health & Wellness,43,1023,Camping / Glamping
+TVA-00778,2023-11-07,United Kingdom,"Cancún, Mexico",Autumn,35–44,Female,International,5,3,Leisure / Holiday,113,1288,Airbnb / Vacation Rental
+TVA-00779,2024-01-25,Russia,"Cairo, Egypt",Winter,35–44,Female,International,2,9,Leisure / Holiday,62,949,Airbnb / Vacation Rental
+TVA-00780,2024-02-11,Central Thailand,"Bangkok, Thailand",Winter,25–34,Male,Domestic,4,11,Health & Wellness,82,2796,Airbnb / Vacation Rental
+TVA-00781,2022-02-04,Mexico,"Bangkok, Thailand",Winter,55–64,Male,International,3,10,Leisure / Holiday,56,1344,Hostel
+TVA-00782,2024-12-06,Mexico,"Barcelona, Spain",Winter,65+,Female,International,1,17,Visiting Friends & Family,99,1683,Hostel
+TVA-00783,2023-11-28,Saudi Arabia,"Paris, France",Autumn,35–44,Male,International,3,4,Leisure / Holiday,166,1594,Hotel (3-star)
+TVA-00784,2024-03-05,Mexico,"Rome, Italy",Spring,25–34,Female,International,2,11,Leisure / Holiday,124,2319,Airbnb / Vacation Rental
+TVA-00785,2024-12-19,"Istanbul Province, Turkey","Istanbul, Turkey",Winter,55–64,Female,Domestic,1,8,Leisure / Holiday,55,440,Friends / Family Home
+TVA-00786,2024-06-28,Australia,"Cancún, Mexico",Summer,35–44,Male,International,1,9,Leisure / Holiday,190,1710,Hotel (4-star)
+TVA-00787,2023-05-03,Australia,"Cancún, Mexico",Spring,25–34,Female,International,4,5,Business / MICE,148,2294,Airbnb / Vacation Rental
+TVA-00788,2023-06-21,Netherlands,"Istanbul, Turkey",Summer,45–54,Male,International,5,7,Business / MICE,114,3032,Airbnb / Vacation Rental
+TVA-00789,2024-05-10,Saudi Arabia,"Rome, Italy",Spring,18–24,Female,International,2,6,Visiting Friends & Family,60,612,Friends / Family Home
+TVA-00790,2024-08-13,"Tuscany, Italy","Rome, Italy",Summer,55–64,Female,Domestic,2,52,Education,266,23514,Resort
+TVA-00791,2024-01-15,Argentina,"Sydney, Australia",Winter,65+,Male,International,4,6,Leisure / Holiday,117,2176,Hostel
+TVA-00792,2023-08-06,Argentina,"Amsterdam, Netherlands",Summer,25–34,Male,International,1,11,Leisure / Holiday,212,2332,Hotel (4-star)
+TVA-00793,2024-02-03,Central Thailand,"Bangkok, Thailand",Winter,35–44,Female,Domestic,6,2,Business / MICE,195,1755,Hotel (5-star)
+TVA-00794,2024-04-26,Sweden,"Mumbai, India",Spring,18–24,Male,International,3,6,Leisure / Holiday,210,3024,Hotel (5-star)
+TVA-00795,2023-03-02,Central Thailand,"Bangkok, Thailand",Spring,35–44,Male,Domestic,2,2,Transit,187,636,Hotel (5-star)
+TVA-00796,2024-10-17,Germany,"Bali, Indonesia",Autumn,65+,Male,International,5,13,Adventure,104,5138,Hotel (4-star)
+TVA-00797,2022-03-20,Germany,"Istanbul, Turkey",Spring,18–24,Female,International,1,7,Leisure / Holiday,108,756,Hotel (3-star)
+TVA-00798,2023-11-22,Mexico,"Cairo, Egypt",Autumn,35–44,Male,International,3,4,Business / MICE,168,1613,Hotel (5-star)
+TVA-00799,2022-05-05,Turkey,"Prague, Czechia",Spring,18–24,Male,International,1,13,Leisure / Holiday,44,572,Camping / Glamping
+TVA-00800,2023-10-26,Germany,"Istanbul, Turkey",Autumn,25–34,Female,International,2,3,Leisure / Holiday,61,311,Hostel
+TVA-00801,2024-06-28,Australia,"New York, USA",Summer,35–44,Female,International,6,8,Leisure / Holiday,166,5976,Camping / Glamping
+TVA-00802,2023-11-19,United States,"Cape Town, South Africa",Autumn,25–34,Female,International,2,3,Leisure / Holiday,210,1071,Resort
+TVA-00803,2024-05-26,"Greater London, UK","London, UK",Spring,35–44,Male,Domestic,1,5,Leisure / Holiday,107,535,Friends / Family Home
+TVA-00804,2023-04-15,Sweden,"Cancún, Mexico",Spring,45–54,Male,International,5,104,Education,173,68370,Hotel (3-star)
+TVA-00805,2023-09-07,Japan,"Barcelona, Spain",Autumn,25–34,Male,International,4,11,Visiting Friends & Family,325,11082,Hotel (5-star)
+TVA-00806,2023-02-23,Sweden,"Rome, Italy",Winter,18–24,Male,International,2,5,Visiting Friends & Family,173,1471,Hotel (3-star)
+TVA-00807,2023-12-16,Netherlands,"Marrakech, Morocco",Winter,25–34,Male,International,1,7,Adventure,88,616,Hotel (3-star)
+TVA-00808,2022-01-10,"Noord-Holland, NL","Vienna, Austria",Winter,35–44,Male,Domestic,4,10,Visiting Friends & Family,66,2046,Friends / Family Home
+TVA-00809,2023-03-12,Brazil,"Marrakech, Morocco",Spring,18–24,Male,International,3,14,Adventure,97,3259,Hotel (4-star)
+TVA-00810,2024-04-16,Spain,"Cape Town, South Africa",Spring,45–54,Male,International,3,21,Visiting Friends & Family,41,2066,Friends / Family Home
+TVA-00811,2024-12-01,Turkey,"Bali, Indonesia",Winter,35–44,Female,International,1,10,Leisure / Holiday,94,940,Airbnb / Vacation Rental
+TVA-00812,2024-04-26,Sweden,"Rome, Italy",Spring,25–34,Female,International,3,15,Visiting Friends & Family,337,12132,Resort
+TVA-00813,2024-03-21,Mexico,Singapore,Spring,25–34,Male,International,2,2,Business / MICE,314,1068,Hotel (3-star)
+TVA-00814,2022-06-20,Japan,"Mumbai, India",Summer,25–34,Male,International,4,14,Leisure / Holiday,61,2647,Hostel
+TVA-00815,2024-01-08,France,"Paris, France",Winter,35–44,Non-binary,Domestic,3,8,Visiting Friends & Family,375,7200,Hotel (5-star)
+TVA-00816,2024-05-27,"Greater London, UK","London, UK",Spring,45–54,Female,Domestic,6,6,Business / MICE,237,6399,Airbnb / Vacation Rental
+TVA-00817,2024-10-13,Netherlands,"Bali, Indonesia",Autumn,45–54,Female,International,3,6,Leisure / Holiday,34,490,Friends / Family Home
+TVA-00818,2023-04-28,"Catalonia, Spain","Prague, Czechia",Spring,65+,Female,Domestic,1,6,Business / MICE,58,348,Camping / Glamping
+TVA-00819,2023-09-02,"New York State, USA","New York, USA",Autumn,45–54,Female,Domestic,2,14,Leisure / Holiday,571,13590,Hotel (5-star)
+TVA-00820,2024-11-06,Saudi Arabia,"Bali, Indonesia",Autumn,55–64,Female,International,3,2,Transit,100,480,Hotel (3-star)
+TVA-00821,2022-03-07,Argentina,"Mumbai, India",Spring,35–44,Male,International,4,1,Transit,141,437,Hotel (4-star)
+TVA-00822,2023-02-17,Spain,"Marrakech, Morocco",Winter,25–34,Female,International,2,1,Transit,81,138,Hotel (3-star)
+TVA-00823,2024-12-18,United Kingdom,"Cairo, Egypt",Winter,25–34,Female,International,3,8,Adventure,102,1958,Hotel (3-star)
+TVA-00824,2024-10-26,Italy,"Rome, Italy",Autumn,25–34,Female,Domestic,3,5,Leisure / Holiday,80,960,Hostel
+TVA-00825,2024-05-04,India,"Cancún, Mexico",Spring,35–44,Male,International,1,4,Business / MICE,61,244,Friends / Family Home
+TVA-00826,2024-08-15,Australia,"Paris, France",Summer,55–64,Non-binary,International,2,4,Business / MICE,202,1374,Hotel (3-star)
+TVA-00827,2024-07-07,Mexico,"New York, USA",Summer,18–24,Female,International,1,7,Business / MICE,96,672,Friends / Family Home
+TVA-00828,2024-02-05,United Kingdom,"Sydney, Australia",Winter,45–54,Female,International,3,10,Leisure / Holiday,341,8184,Hotel (4-star)
+TVA-00829,2024-02-10,Netherlands,"Vienna, Austria",Winter,25–34,Male,International,4,15,Adventure,175,8137,Airbnb / Vacation Rental
+TVA-00830,2023-01-17,Netherlands,"Amsterdam, Netherlands",Winter,45–54,Female,Domestic,2,5,Leisure / Holiday,70,595,Friends / Family Home
+TVA-00831,2023-04-05,Japan,Singapore,Spring,65+,Female,International,1,13,Leisure / Holiday,229,2977,Airbnb / Vacation Rental
+TVA-00832,2023-11-06,"Tuscany, Italy","Rome, Italy",Autumn,45–54,Female,Domestic,6,12,Visiting Friends & Family,54,2916,Friends / Family Home
+TVA-00833,2024-06-13,Mexico,"Cancún, Mexico",Summer,65+,Non-binary,Domestic,3,17,Visiting Friends & Family,222,9058,Resort
+TVA-00834,2024-05-28,Italy,"Mumbai, India",Spring,45–54,Female,International,1,8,Leisure / Holiday,130,1040,Hotel (4-star)
+TVA-00835,2024-02-14,Japan,"Bangkok, Thailand",Winter,18–24,Male,International,2,2,Business / MICE,192,653,Hotel (5-star)
+TVA-00836,2024-03-10,United Kingdom,"Dubai, UAE",Spring,35–44,Male,International,2,5,Business / MICE,149,1267,Camping / Glamping
+TVA-00837,2024-02-06,India,"Cancún, Mexico",Winter,45–54,Male,International,1,3,Leisure / Holiday,72,216,Camping / Glamping
+TVA-00838,2022-07-15,Mexico,"London, UK",Summer,18–24,Female,International,5,10,Health & Wellness,320,12160,Hotel (4-star)
+TVA-00839,2022-02-27,France,Singapore,Winter,45–54,Female,International,2,21,Visiting Friends & Family,509,18171,Resort
+TVA-00840,2023-08-02,China,"Marrakech, Morocco",Summer,35–44,Female,International,2,12,Visiting Friends & Family,73,1489,Airbnb / Vacation Rental
+TVA-00841,2024-04-25,France,"Dubai, UAE",Spring,45–54,Female,International,4,6,Business / MICE,311,5785,Hotel (3-star)
+TVA-00842,2022-06-09,"Dubai Emirate, UAE","Cape Town, South Africa",Summer,18–24,Male,Domestic,2,2,Business / MICE,133,452,Hotel (4-star)
+TVA-00843,2024-11-28,China,"New York, USA",Autumn,55–64,Male,International,2,121,Education,447,91948,Resort
+TVA-00844,2023-03-10,Mexico,"Amsterdam, Netherlands",Spring,35–44,Female,International,2,6,Visiting Friends & Family,227,2315,Hotel (4-star)
+TVA-00845,2023-10-21,South Korea,"Bali, Indonesia",Autumn,65+,Female,International,1,7,Leisure / Holiday,51,357,Camping / Glamping
+TVA-00846,2024-05-19,"Dubai Emirate, UAE","Dubai, UAE",Spring,55–64,Male,Domestic,1,3,Leisure / Holiday,417,1251,Hotel (4-star)
+TVA-00847,2024-04-20,"Dubai Emirate, UAE","Dubai, UAE",Spring,18–24,Female,Domestic,1,5,Leisure / Holiday,346,1730,Hotel (4-star)
+TVA-00848,2024-10-01,India,"Istanbul, Turkey",Autumn,18–24,Male,International,5,6,Business / MICE,189,4309,Resort
+TVA-00849,2024-01-09,Turkey,"Mumbai, India",Winter,35–44,Male,International,1,11,Leisure / Holiday,188,2068,Hotel (5-star)
+TVA-00850,2024-10-26,"Noord-Holland, NL","Prague, Czechia",Autumn,35–44,Female,Domestic,3,6,Business / MICE,115,1656,Hotel (4-star)
+TVA-00851,2023-12-15,Turkey,"Rome, Italy",Winter,55–64,Male,International,2,12,Visiting Friends & Family,229,4672,Hotel (4-star)
+TVA-00852,2024-03-23,Turkey,"New York, USA",Spring,65+,Female,International,1,131,Education,313,41003,Hotel (3-star)
+TVA-00853,2024-09-04,Australia,Singapore,Autumn,35–44,Male,International,1,6,Leisure / Holiday,173,1038,Hostel
+TVA-00854,2023-08-27,Australia,"Sydney, Australia",Summer,55–64,Female,Domestic,2,2,Transit,233,792,Airbnb / Vacation Rental
+TVA-00855,2024-07-11,Brazil,"Istanbul, Turkey",Summer,25–34,Female,International,1,12,Leisure / Holiday,165,1980,Hotel (4-star)
+TVA-00856,2023-06-16,Netherlands,"Bali, Indonesia",Summer,65+,Female,International,2,13,Leisure / Holiday,36,796,Friends / Family Home
+TVA-00857,2024-10-28,"Istanbul Province, Turkey",Singapore,Autumn,25–34,Female,Domestic,3,8,Leisure / Holiday,438,8410,Resort
+TVA-00858,2022-10-07,Japan,"Tokyo, Japan",Autumn,55–64,Female,Domestic,6,18,Adventure,271,21951,Hotel (3-star)
+TVA-00859,2024-08-21,Canada,"Cancún, Mexico",Summer,55–64,Female,International,3,8,Leisure / Holiday,140,2688,Airbnb / Vacation Rental
+TVA-00860,2024-03-18,Argentina,"Istanbul, Turkey",Spring,55–64,Male,International,4,11,Leisure / Holiday,148,5047,Hotel (4-star)
+TVA-00861,2023-04-05,Italy,"Sydney, Australia",Spring,35–44,Male,International,3,3,Business / MICE,165,1188,Airbnb / Vacation Rental
+TVA-00862,2024-10-16,Argentina,"Bangkok, Thailand",Autumn,55–64,Male,International,1,8,Leisure / Holiday,97,776,Airbnb / Vacation Rental
+TVA-00863,2024-09-19,South Korea,"Vienna, Austria",Autumn,18–24,Male,International,1,5,Leisure / Holiday,271,1355,Hotel (4-star)
+TVA-00864,2023-04-19,Spain,"Amsterdam, Netherlands",Spring,45–54,Female,International,4,4,Leisure / Holiday,269,3336,Hotel (4-star)
+TVA-00865,2024-01-11,Saudi Arabia,"Marrakech, Morocco",Winter,35–44,Male,International,2,16,Visiting Friends & Family,97,2638,Hotel (4-star)
+TVA-00866,2022-05-13,Brazil,"Paris, France",Spring,55–64,Female,International,1,20,Visiting Friends & Family,259,5180,Hotel (4-star)
+TVA-00867,2024-10-25,United States,"Cairo, Egypt",Autumn,45–54,Female,International,5,3,Leisure / Holiday,79,901,Hotel (3-star)
+TVA-00868,2023-02-06,Germany,"Paris, France",Winter,45–54,Female,International,3,3,Leisure / Holiday,90,648,Camping / Glamping
+TVA-00869,2022-09-13,Brazil,Singapore,Autumn,35–44,Male,International,2,11,Adventure,364,6807,Hotel (4-star)
+TVA-00870,2024-02-15,Brazil,"Bali, Indonesia",Winter,35–44,Male,International,3,4,Leisure / Holiday,156,1498,Hotel (5-star)
+TVA-00871,2022-05-06,Turkey,"Sydney, Australia",Spring,45–54,Male,International,2,18,Adventure,234,7160,Airbnb / Vacation Rental
+TVA-00872,2023-04-05,Mexico,"Cancún, Mexico",Spring,45–54,Female,Domestic,2,55,Education,169,15802,Hotel (3-star)
+TVA-00873,2023-11-18,Netherlands,"Amsterdam, Netherlands",Autumn,18–24,Male,Domestic,2,11,Visiting Friends & Family,393,7349,Hotel (5-star)
+TVA-00874,2024-08-05,Argentina,"Mumbai, India",Summer,25–34,Female,International,3,2,Business / MICE,131,629,Hotel (4-star)
+TVA-00875,2024-02-17,Canada,"Istanbul, Turkey",Winter,55–64,Female,International,4,5,Business / MICE,233,3611,Hotel (5-star)
+TVA-00876,2024-07-26,"Dubai Emirate, UAE","Dubai, UAE",Summer,35–44,Female,Domestic,1,3,Leisure / Holiday,407,1221,Resort
+TVA-00877,2023-02-09,"New South Wales, AU","Bali, Indonesia",Winter,65+,Female,Domestic,4,4,Business / MICE,38,471,Camping / Glamping
+TVA-00878,2024-02-08,"Île-de-France, France","Paris, France",Winter,45–54,Female,Domestic,2,13,Leisure / Holiday,170,3757,Hotel (3-star)
+TVA-00879,2024-08-05,Australia,"Marrakech, Morocco",Summer,65+,Non-binary,International,2,7,Visiting Friends & Family,110,1309,Hotel (4-star)
+TVA-00880,2024-09-28,Central Thailand,"Prague, Czechia",Autumn,45–54,Male,Domestic,3,5,Business / MICE,31,372,Friends / Family Home
+TVA-00881,2024-05-10,"New York State, USA","Vienna, Austria",Spring,45–54,Female,Domestic,5,2,Business / MICE,108,821,Hostel
+TVA-00882,2022-01-10,Russia,Singapore,Winter,45–54,Male,International,2,11,Leisure / Holiday,286,5348,Hotel (3-star)
+TVA-00883,2022-07-15,Japan,"Cairo, Egypt",Summer,25–34,Male,International,2,8,Leisure / Holiday,181,2462,Hotel (5-star)
+TVA-00884,2023-01-26,United States,"Dubai, UAE",Winter,35–44,Female,International,4,5,Business / MICE,455,7052,Hotel (4-star)
+TVA-00885,2024-09-27,Italy,"Bangkok, Thailand",Autumn,25–34,Male,International,1,4,Leisure / Holiday,67,268,Hostel
+TVA-00886,2022-04-13,"New York State, USA","Bali, Indonesia",Spring,25–34,Female,Domestic,2,3,Leisure / Holiday,150,765,Resort
+TVA-00887,2024-02-05,"Île-de-France, France","Bali, Indonesia",Winter,55–64,Female,Domestic,6,5,Leisure / Holiday,88,1980,Hotel (3-star)
+TVA-00888,2023-06-25,Saudi Arabia,"Cairo, Egypt",Summer,45–54,Non-binary,International,2,6,Health & Wellness,81,826,Hotel (3-star)
+TVA-00889,2024-09-26,France,Singapore,Autumn,25–34,Female,International,1,6,Business / MICE,104,624,Friends / Family Home
+TVA-00890,2024-11-04,Italy,"Tokyo, Japan",Autumn,35–44,Male,International,3,8,Leisure / Holiday,111,2131,Camping / Glamping
+TVA-00891,2023-04-21,Turkey,"Istanbul, Turkey",Spring,25–34,Male,Domestic,4,3,Leisure / Holiday,169,1572,Hotel (4-star)
+TVA-00892,2023-04-10,Mexico,"Bangkok, Thailand",Spring,55–64,Male,International,1,10,Leisure / Holiday,194,1940,Hotel (5-star)
+TVA-00893,2022-06-21,Canada,"Bali, Indonesia",Summer,25–34,Female,International,4,7,Adventure,137,2973,Hotel (4-star)
+TVA-00894,2023-06-16,India,"Mumbai, India",Summer,25–34,Female,Domestic,2,15,Visiting Friends & Family,125,3188,Hotel (4-star)
+TVA-00895,2024-05-14,Brazil,"Cancún, Mexico",Spring,35–44,Male,International,2,13,Adventure,100,2210,Airbnb / Vacation Rental
+TVA-00896,2024-02-28,Australia,"Bali, Indonesia",Winter,45–54,Female,International,4,10,Leisure / Holiday,100,3100,Hotel (4-star)
+TVA-00897,2023-11-18,Japan,"Cape Town, South Africa",Autumn,25–34,Male,International,5,8,Visiting Friends & Family,63,1915,Hostel
+TVA-00898,2022-06-27,"Noord-Holland, NL","Marrakech, Morocco",Summer,35–44,Male,Domestic,1,17,Visiting Friends & Family,106,1802,Hotel (3-star)
+TVA-00899,2024-10-12,Russia,"Tokyo, Japan",Autumn,45–54,Female,International,3,7,Leisure / Holiday,526,8837,Hotel (5-star)
+TVA-00900,2024-05-16,"Dubai Emirate, UAE","Dubai, UAE",Spring,35–44,Female,Domestic,2,2,Business / MICE,560,1904,Resort
+TVA-00901,2023-07-17,Argentina,"Istanbul, Turkey",Summer,35–44,Male,International,2,9,Leisure / Holiday,265,4055,Hotel (5-star)
+TVA-00902,2024-10-28,"Catalonia, Spain","Barcelona, Spain",Autumn,35–44,Non-binary,Domestic,3,9,Adventure,74,1598,Hostel
+TVA-00903,2024-12-01,India,"Mumbai, India",Winter,35–44,Female,Domestic,2,11,Visiting Friends & Family,121,2263,Hotel (3-star)
+TVA-00904,2023-10-28,Sweden,"Istanbul, Turkey",Autumn,55–64,Female,International,1,5,Business / MICE,144,720,Hotel (3-star)
+TVA-00905,2023-03-22,"New York State, USA","Vienna, Austria",Spring,45–54,Male,Domestic,2,7,Leisure / Holiday,152,1809,Hotel (3-star)
+TVA-00906,2023-06-09,Netherlands,"Amsterdam, Netherlands",Summer,25–34,Male,Domestic,2,12,Leisure / Holiday,210,4284,Hotel (3-star)
+TVA-00907,2024-02-27,France,"Paris, France",Winter,35–44,Male,Domestic,3,4,Business / MICE,253,2429,Hotel (4-star)
+TVA-00908,2024-08-25,"Greater London, UK","Vienna, Austria",Summer,25–34,Female,Domestic,2,9,Adventure,175,2678,Airbnb / Vacation Rental
+TVA-00909,2024-12-03,Mexico,"Sydney, Australia",Winter,35–44,Male,International,2,15,Adventure,372,9486,Resort
+TVA-00910,2023-11-28,Japan,"Tokyo, Japan",Autumn,45–54,Female,Domestic,3,9,Leisure / Holiday,332,7171,Hotel (4-star)
+TVA-00911,2024-03-10,Argentina,"Sydney, Australia",Spring,25–34,Male,International,1,4,Business / MICE,272,1088,Hotel (3-star)
+TVA-00912,2024-10-23,Sweden,"Cairo, Egypt",Autumn,35–44,Female,International,5,5,Business / MICE,25,475,Friends / Family Home
+TVA-00913,2022-03-24,Central Thailand,"Bangkok, Thailand",Spring,55–64,Male,Domestic,6,7,Health & Wellness,110,3465,Airbnb / Vacation Rental
+TVA-00914,2022-09-21,Turkey,"Istanbul, Turkey",Autumn,55–64,Female,Domestic,1,20,Visiting Friends & Family,105,2100,Airbnb / Vacation Rental
+TVA-00915,2024-09-04,Central Thailand,"Bangkok, Thailand",Autumn,55–64,Female,Domestic,4,6,Health & Wellness,52,967,Camping / Glamping
+TVA-00916,2023-08-28,Russia,"Dubai, UAE",Summer,18–24,Male,International,3,4,Leisure / Holiday,601,5770,Resort
+TVA-00917,2022-02-28,Argentina,"Bali, Indonesia",Winter,25–34,Female,International,1,13,Adventure,94,1222,Hotel (3-star)
+TVA-00918,2022-10-27,Spain,"Amsterdam, Netherlands",Autumn,25–34,Male,International,2,2,Transit,280,952,Hotel (4-star)
+TVA-00919,2024-07-10,Australia,"Istanbul, Turkey",Summer,55–64,Female,International,2,117,Education,189,37592,Resort
+TVA-00920,2023-05-01,Mexico,"Cairo, Egypt",Spring,35–44,Female,International,3,14,Health & Wellness,101,3394,Hotel (4-star)
+TVA-00921,2022-04-17,Germany,"Cairo, Egypt",Spring,65+,Male,International,1,55,Education,166,9130,Resort
+TVA-00922,2024-06-27,India,"Mumbai, India",Summer,25–34,Non-binary,Domestic,1,3,Leisure / Holiday,60,180,Hostel
+TVA-00923,2023-06-03,"Tuscany, Italy",Singapore,Summer,25–34,Female,Domestic,3,9,Leisure / Holiday,374,8078,Hotel (4-star)
+TVA-00924,2022-07-26,Spain,"New York, USA",Summer,35–44,Female,International,2,9,Health & Wellness,326,4988,Hotel (3-star)
+TVA-00925,2024-08-18,"Catalonia, Spain",Singapore,Summer,25–34,Male,Domestic,2,14,Leisure / Holiday,331,7878,Hotel (4-star)
+TVA-00926,2024-12-14,France,"Paris, France",Winter,25–34,Female,International,2,7,Visiting Friends & Family,255,3035,Hotel (4-star)
+TVA-00927,2022-05-20,China,"New York, USA",Spring,35–44,Female,International,3,13,Adventure,285,8892,Hotel (3-star)
+TVA-00928,2024-10-24,Sweden,"Cape Town, South Africa",Autumn,25–34,Male,International,6,12,Visiting Friends & Family,196,10584,Hotel (5-star)
+TVA-00929,2024-09-12,Australia,"Tokyo, Japan",Autumn,35–44,Male,International,2,6,Leisure / Holiday,121,1234,Camping / Glamping
+TVA-00930,2023-01-01,Netherlands,"Prague, Czechia",Winter,65+,Male,International,4,12,Adventure,228,8482,Hotel (5-star)
+TVA-00931,2024-10-21,India,"Amsterdam, Netherlands",Autumn,55–64,Female,International,1,6,Business / MICE,295,1770,Resort
+TVA-00932,2023-06-16,Mexico,Singapore,Summer,25–34,Female,International,3,6,Leisure / Holiday,236,3398,Hotel (3-star)
+TVA-00933,2024-06-05,Russia,"Mumbai, India",Summer,45–54,Male,International,1,10,Leisure / Holiday,165,1650,Resort
+TVA-00934,2024-09-02,United Kingdom,"Amsterdam, Netherlands",Autumn,55–64,Female,International,2,11,Leisure / Holiday,359,6713,Hotel (5-star)
+TVA-00935,2023-04-28,Turkey,"Istanbul, Turkey",Spring,65+,Male,Domestic,3,95,Education,224,51072,Resort
+TVA-00936,2023-06-02,Brazil,"Dubai, UAE",Summer,45–54,Female,International,2,66,Education,419,47012,Hotel (4-star)
+TVA-00937,2024-03-24,Saudi Arabia,"Cairo, Egypt",Spring,55–64,Male,International,5,14,Visiting Friends & Family,99,5267,Hotel (3-star)
+TVA-00938,2024-03-06,"New South Wales, AU","Cairo, Egypt",Spring,25–34,Female,Domestic,4,7,Business / MICE,31,673,Camping / Glamping
+TVA-00939,2024-08-18,Mexico,"New York, USA",Summer,45–54,Female,International,5,12,Adventure,395,18012,Hotel (4-star)
+TVA-00940,2023-10-24,Italy,"Bali, Indonesia",Autumn,65+,Male,International,1,7,Business / MICE,91,637,Hotel (3-star)
+TVA-00941,2023-07-26,Sweden,"London, UK",Summer,55–64,Male,International,3,5,Leisure / Holiday,324,3888,Hotel (4-star)
+TVA-00942,2024-03-10,Russia,"Istanbul, Turkey",Spring,25–34,Female,International,3,15,Visiting Friends & Family,153,5508,Hotel (3-star)
+TVA-00943,2024-01-02,Italy,"Cairo, Egypt",Winter,18–24,Male,International,1,7,Leisure / Holiday,132,924,Hotel (4-star)
+TVA-00944,2024-11-20,Italy,"Cairo, Egypt",Autumn,25–34,Male,International,4,3,Business / MICE,96,893,Hotel (4-star)
+TVA-00945,2024-11-22,Netherlands,"Amsterdam, Netherlands",Autumn,25–34,Female,Domestic,2,5,Business / MICE,166,1411,Airbnb / Vacation Rental
+TVA-00946,2023-04-23,Central Thailand,"Bangkok, Thailand",Spring,35–44,Male,Domestic,4,6,Leisure / Holiday,232,4315,Hotel (5-star)
+TVA-00947,2024-08-13,France,"Paris, France",Summer,25–34,Male,Domestic,1,7,Health & Wellness,136,952,Airbnb / Vacation Rental
+TVA-00948,2024-11-16,China,"Prague, Czechia",Autumn,55–64,Male,International,2,9,Leisure / Holiday,122,1867,Hotel (4-star)
+TVA-00949,2024-08-05,Canada,"Amsterdam, Netherlands",Summer,18–24,Male,International,5,55,Education,363,75867,Hotel (5-star)
+TVA-00950,2024-04-11,India,"Mumbai, India",Spring,45–54,Female,Domestic,2,10,Leisure / Holiday,165,2805,Hotel (5-star)
+TVA-00951,2024-08-25,Germany,"Paris, France",Summer,55–64,Male,International,1,12,Visiting Friends & Family,104,1248,Camping / Glamping
+TVA-00952,2024-11-22,United States,"Prague, Czechia",Autumn,55–64,Female,International,3,13,Leisure / Holiday,110,3432,Hotel (3-star)
+TVA-00953,2024-08-18,Australia,"Bali, Indonesia",Summer,65+,Female,International,3,6,Business / MICE,138,1987,Hotel (4-star)
+TVA-00954,2022-09-12,Brazil,"Marrakech, Morocco",Autumn,25–34,Male,International,5,12,Leisure / Holiday,133,6065,Hotel (4-star)
+TVA-00955,2024-02-13,"Tuscany, Italy","Rome, Italy",Winter,35–44,Male,Domestic,1,51,Education,206,10506,Hotel (4-star)
+TVA-00956,2023-02-12,Germany,"Sydney, Australia",Winter,45–54,Male,International,3,11,Visiting Friends & Family,127,3353,Hostel
+TVA-00957,2024-07-06,Mexico,Singapore,Summer,25–34,Male,International,4,5,Leisure / Holiday,229,3549,Hotel (3-star)
+TVA-00958,2024-09-09,Germany,"Mumbai, India",Autumn,18–24,Male,International,2,11,Visiting Friends & Family,198,3703,Resort
+TVA-00959,2022-11-20,Central Thailand,"Bangkok, Thailand",Autumn,45–54,Male,Domestic,4,6,Business / MICE,51,949,Camping / Glamping
+TVA-00960,2022-08-11,"Greater London, UK","London, UK",Summer,25–34,Female,Domestic,2,3,Business / MICE,385,1964,Hotel (4-star)
+TVA-00961,2024-09-17,France,"London, UK",Autumn,35–44,Non-binary,International,2,12,Leisure / Holiday,319,6508,Hotel (4-star)
+TVA-00962,2024-03-23,Russia,"Amsterdam, Netherlands",Spring,65+,Female,International,1,12,Visiting Friends & Family,88,1056,Camping / Glamping
+TVA-00963,2023-04-07,South Korea,"New York, USA",Spring,45–54,Non-binary,International,2,8,Leisure / Holiday,559,7602,Hotel (5-star)
+TVA-00964,2024-12-01,"Catalonia, Spain","Barcelona, Spain",Winter,35–44,Male,Domestic,2,10,Leisure / Holiday,168,2856,Airbnb / Vacation Rental
+TVA-00965,2024-07-16,Netherlands,"Sydney, Australia",Summer,25–34,Female,International,3,4,Business / MICE,93,893,Friends / Family Home
+TVA-00966,2022-05-23,Netherlands,"Amsterdam, Netherlands",Spring,55–64,Female,Domestic,1,1,Transit,256,256,Hotel (4-star)
+TVA-00967,2022-09-05,Brazil,Singapore,Autumn,55–64,Female,International,2,17,Visiting Friends & Family,397,11473,Hotel (4-star)
+TVA-00968,2022-04-14,"New York State, USA","Bali, Indonesia",Spring,45–54,Male,Domestic,4,7,Business / MICE,84,1823,Airbnb / Vacation Rental
+TVA-00969,2023-06-14,United States,"Mumbai, India",Summer,55–64,Male,International,5,20,Visiting Friends & Family,76,5776,Airbnb / Vacation Rental
+TVA-00970,2024-12-28,Canada,"Amsterdam, Netherlands",Winter,35–44,Female,International,3,4,Leisure / Holiday,172,1651,Airbnb / Vacation Rental
+TVA-00971,2024-10-05,Australia,"Sydney, Australia",Autumn,45–54,Male,Domestic,5,8,Adventure,289,8786,Hotel (4-star)
+TVA-00972,2024-02-09,Netherlands,"New York, USA",Winter,35–44,Male,International,2,6,Business / MICE,598,6100,Hotel (5-star)
+TVA-00973,2023-03-03,Germany,"Barcelona, Spain",Spring,65+,Male,International,2,17,Adventure,209,6040,Hotel (4-star)
+TVA-00974,2024-07-03,"Istanbul Province, Turkey","Istanbul, Turkey",Summer,25–34,Male,Domestic,2,5,Business / MICE,113,961,Hotel (3-star)
+TVA-00975,2024-06-22,Mexico,"Rome, Italy",Summer,45–54,Female,International,3,115,Education,105,28980,Hostel
+TVA-00976,2023-04-21,"New South Wales, AU","Cape Town, South Africa",Spring,45–54,Female,Domestic,2,16,Adventure,64,1741,Hostel
+TVA-00977,2022-11-28,Italy,"Sydney, Australia",Autumn,35–44,Female,International,2,10,Leisure / Holiday,250,4250,Hotel (4-star)
+TVA-00978,2024-03-16,South Korea,"Prague, Czechia",Spring,45–54,Female,International,1,11,Health & Wellness,206,2266,Hotel (5-star)
+TVA-00979,2024-06-09,"Istanbul Province, Turkey",Singapore,Summer,45–54,Male,Domestic,5,1,Transit,418,1588,Hotel (4-star)
+TVA-00980,2024-03-25,China,"Bangkok, Thailand",Spring,35–44,Male,International,2,10,Leisure / Holiday,200,3400,Resort
+TVA-00981,2024-01-21,Japan,"Prague, Czechia",Winter,55–64,Female,International,6,9,Adventure,212,8586,Resort
+TVA-00982,2024-09-16,China,"Marrakech, Morocco",Autumn,35–44,Female,International,1,18,Adventure,73,1314,Airbnb / Vacation Rental
+TVA-00983,2024-05-24,Sweden,"Paris, France",Spring,45–54,Male,International,2,4,Leisure / Holiday,161,1095,Airbnb / Vacation Rental
+TVA-00984,2022-06-03,Sweden,"Mumbai, India",Summer,25–34,Female,International,6,12,Health & Wellness,108,5832,Hotel (3-star)
+TVA-00985,2024-11-11,Brazil,"New York, USA",Autumn,45–54,Male,International,2,3,Leisure / Holiday,189,964,Hostel
+TVA-00986,2024-07-17,South Korea,"Tokyo, Japan",Summer,25–34,Female,International,1,5,Leisure / Holiday,93,465,Friends / Family Home
+TVA-00987,2024-03-25,Argentina,"Bali, Indonesia",Spring,25–34,Female,International,4,5,Leisure / Holiday,109,1689,Hotel (3-star)
+TVA-00988,2022-11-21,Turkey,"Sydney, Australia",Autumn,55–64,Non-binary,International,2,13,Leisure / Holiday,306,6763,Hotel (4-star)
+TVA-00989,2022-09-18,Australia,"Sydney, Australia",Autumn,55–64,Male,Domestic,4,14,Leisure / Holiday,354,15364,Resort
+TVA-00990,2024-12-11,Spain,"Paris, France",Winter,35–44,Male,International,1,3,Business / MICE,270,810,Hotel (4-star)
+TVA-00991,2023-04-09,"Greater London, UK","London, UK",Spring,35–44,Female,Domestic,2,12,Leisure / Holiday,232,4733,Airbnb / Vacation Rental
+TVA-00992,2022-06-28,South Korea,"Istanbul, Turkey",Summer,45–54,Female,International,2,8,Health & Wellness,143,1945,Hotel (3-star)
+TVA-00993,2024-08-24,Turkey,"Sydney, Australia",Summer,35–44,Non-binary,International,2,11,Leisure / Holiday,200,3740,Airbnb / Vacation Rental
+TVA-00994,2024-12-21,Australia,"Cairo, Egypt",Winter,25–34,Female,International,5,4,Business / MICE,40,608,Hostel
+TVA-00995,2024-04-07,"Catalonia, Spain","Bali, Indonesia",Spring,45–54,Female,Domestic,1,6,Visiting Friends & Family,103,618,Hotel (3-star)
+TVA-00996,2024-10-19,United States,"Dubai, UAE",Autumn,25–34,Male,International,4,154,Education,319,152291,Hotel (3-star)
+TVA-00997,2023-04-20,Netherlands,"Cancún, Mexico",Spring,25–34,Female,International,3,13,Leisure / Holiday,75,2340,Camping / Glamping
+TVA-00998,2024-06-05,"Kantō, Japan","Marrakech, Morocco",Summer,65+,Female,Domestic,2,6,Business / MICE,101,1030,Hotel (3-star)
+TVA-00999,2023-08-08,Netherlands,"Prague, Czechia",Summer,35–44,Male,International,6,7,Leisure / Holiday,141,4442,Hotel (4-star)
+TVA-01000,2023-12-27,Spain,"Barcelona, Spain",Winter,25–34,Male,Domestic,1,7,Adventure,308,2156,Resort
